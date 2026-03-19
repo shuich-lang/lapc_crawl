@@ -40,8 +40,44 @@ def map_field(section: str, key: str) -> str:
     section = normalize_key(section)
     key = normalize_key(key)
 
-    if section and section in SECTION_FIELD_MAP:
-        return SECTION_FIELD_MAP[section].get(key, FIELD_MAP.get(key, key))
+    if not section:
+        return FIELD_MAP.get(key, key)
+
+    if section == "위원회":
+        if key == "소관위":
+            return "JRSD_CMIT_NM"
+        elif key == "회부일":
+            return "FRWRD_DE"
+        elif key == "보고일":
+            return "CMIT_REPORT_DE"
+        elif key == "상정일":
+            return "CMIT_SBMISN_DE"
+        elif key == "의결일":
+            return "CMIT_PROCESS_DE"
+        elif key == "처리 결과":
+            return "CMIT_RESULT"
+        elif key == "비고":
+            return "CMIT_UPDT_OUTLINE"
+        elif key == "관련 회의록":
+            return "CMIT_RELATED_MEETING"
+
+    if section == "본회의":
+        if key == "접수일":
+            return "PLNMT_FRWRD_DE"
+        elif key == "회부일":
+            return "PLNMT_FRWRD_DE"
+        elif key == "보고일":
+            return "PLNMT_REPORT_DE"
+        elif key == "상정일":
+            return "PLNMT_SBMISN_DE"
+        elif key == "의결일":
+            return "PLNMT_PROCESS_DE"
+        elif key == "처리 결과":
+            return "PLNMT_RESULT"
+        elif key == "비고":
+            return "PLNMT_REMARK"
+        elif key == "관련 회의록":
+            return "PLNMT_RELATED_MEETING"
 
     return FIELD_MAP.get(key, key)
 
