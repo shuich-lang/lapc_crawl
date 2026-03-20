@@ -27,7 +27,7 @@ async def scrape_bills_goyang():
     global stop_scraping
     stop_scraping = False
 
-    url = "https://www.goyangcouncil.go.kr/promote/bill.do"
+    url = "https://www.goyangcouncil.go.kr/promote/bill.do?th_sch=9"
     data_list = []
 
     async with async_playwright() as p:

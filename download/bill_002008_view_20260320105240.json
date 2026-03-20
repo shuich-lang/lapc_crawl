@@ -1,0 +1,4247 @@
+[
+    {
+        "view_id": "0092812",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092812",
+        "BI_NO": "2812 (제341회)",
+        "BI_SJ": "서울특별시 구로구 목공체험장 운영 및 관리 조례안",
+        "ITNC_DE": "2026.01.26",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 목공체험장 운영 및 관리 조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/GC/0V&code=09GC0V&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 목공체험장 운영 및 관리 조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/GC/0V&code=09GC0V&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2026.02.04",
+                "처리일": "2026.02.04",
+                "CMIT_RESULT": "수정가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=341&contype=2&subtype=3&num=1&code=09GC03"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2026.02.11",
+                "처리일": "2026.02.11",
+                "PLNMT_RESULT": "수정가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=341&contype=1&subtype=0&num=2&code=09GB05",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 목공체험장 운영 및 관리 조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092811",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092811",
+        "BI_NO": "2811 (제341회)",
+        "BI_SJ": "서울특별시 구로구 중소기업육성기금 설치 및 운용에 관한 조례 일부개정조례",
+        "ITNC_DE": "2026.01.26",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": [
+            "서울특별시 구로구 중소기업육성기금 설치 및 운용에 관한 조례 일부개정조례안(제안설명)",
+            "서울특별시 구로구 중소기업육성기금 설치 및 운용에 관한 조례 일부개정조례안(검토보고서)"
+        ],
+        "BI_FILE_URL": [
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/GC/0E&code=09GC0E&ext=01.HWP",
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/GC/0F&code=09GC0F&ext=01.HWP"
+        ],
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 중소기업육성기금 설치 및 운용에 관한 조례 일부개정조례안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/GC/0E&code=09GC0E&ext=01.HWP"
+            },
+            {
+                "name": "서울특별시 구로구 중소기업육성기금 설치 및 운용에 관한 조례 일부개정조례안(검토보고서)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/GC/0F&code=09GC0F&ext=01.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2026.02.04",
+                "처리일": "2026.02.04",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=341&contype=2&subtype=2&num=1&code=09GC00"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2026.02.11",
+                "처리일": "2026.02.11",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=341&contype=1&subtype=0&num=2&code=09GB04",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 중소기업육성기금 설치 및 운용에 관한 조례 일부개정조례안(제안설명) 서울특별시 구로구 중소기업육성기금 설치 및 운용에 관한 조례 일부개정조례안(검토보고서)"
+            }
+        }
+    },
+    {
+        "view_id": "0092814",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092814",
+        "BI_NO": "2814 (제341회)",
+        "BI_SJ": "서울특별시 구로구 고령친화도시 조성 조례안",
+        "ITNC_DE": "2026.01.23",
+        "PROPSR": "김철수(국)",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 고령친화도시 조성 조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/GC/0T&code=09GC0T&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 고령친화도시 조성 조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/GC/0T&code=09GC0T&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2026.02.04",
+                "처리일": "2026.02.04",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=341&contype=2&subtype=3&num=1&code=09GC01"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2026.02.11",
+                "처리일": "2026.02.11",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=341&contype=1&subtype=0&num=2&code=09GB05",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 고령친화도시 조성 조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092807",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092807",
+        "BI_NO": "2807 (제340회)",
+        "BI_SJ": "서울특별시 구로구 반려동물 진료비 지원 조례안",
+        "ITNC_DE": "2025.11.19",
+        "PROPSR": "김용권",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": [
+            "서울특별시 구로구 반려동물 진료비 지원 조례안(제안설명)",
+            "서울특별시 구로구 반려동물 진료비 지원 조례안 외 7건(검토보고서)"
+        ],
+        "BI_FILE_URL": [
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/18&code=09FC18&ext=01.HWP",
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1H&code=09FC1H&ext=00.HWP"
+        ],
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 반려동물 진료비 지원 조례안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/18&code=09FC18&ext=01.HWP"
+            },
+            {
+                "name": "서울특별시 구로구 반려동물 진료비 지원 조례안 외 7건(검토보고서)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1H&code=09FC1H&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.12.03",
+                "처리일": "2025.12.03",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=2&subtype=2&num=1&code=09FC09"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.12.17",
+                "처리일": "2025.12.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제5차 회의록",
+                "RELATED_MEETING_NM": "제5차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=1&subtype=0&num=5&code=09FB0A",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 반려동물 진료비 지원 조례안(제안설명) 서울특별시 구로구 반려동물 진료비 지원 조례안 외 7건(검토보고서)"
+            }
+        }
+    },
+    {
+        "view_id": "0092806",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092806",
+        "BI_NO": "2806 (제340회)",
+        "BI_SJ": "서울특별시 구로구 데이터기반행정 활성화에 관한 조례안",
+        "ITNC_DE": "2025.11.19",
+        "PROPSR": "이명숙",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 데이터기반행정 활성화에 관한 조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/0R&code=09FC0R&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 데이터기반행정 활성화에 관한 조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/0R&code=09FC0R&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.12.03",
+                "처리일": "2025.12.03",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=2&subtype=3&num=1&code=09FC00"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.12.17",
+                "처리일": "2025.12.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제5차 회의록",
+                "RELATED_MEETING_NM": "제5차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=1&subtype=0&num=5&code=09FB0B",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 데이터기반행정 활성화에 관한 조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092805",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092805",
+        "BI_NO": "2805 (제340회)",
+        "BI_SJ": "서울특별시 구로구 주택화재피해주민 지원 조례안",
+        "ITNC_DE": "2025.11.19",
+        "PROPSR": "홍용민",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 주택화재피해주민 지원 조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/0V&code=09FC0V&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 주택화재피해주민 지원 조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/0V&code=09FC0V&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.12.03",
+                "처리일": "2025.12.03",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=2&subtype=3&num=1&code=09FC04"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.12.17",
+                "처리일": "2025.12.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제5차 회의록",
+                "RELATED_MEETING_NM": "제5차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=1&subtype=0&num=5&code=09FB0B",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 주택화재피해주민 지원 조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092804",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092804",
+        "BI_NO": "2804 (제340회)",
+        "BI_SJ": "서울특별시 구로구 기술자문위원회 조례안",
+        "ITNC_DE": "2025.11.19",
+        "PROPSR": "방은경",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 기술자문위원회 조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/0Y&code=09FC0Y&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 기술자문위원회 조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/0Y&code=09FC0Y&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.12.03",
+                "처리일": "2025.12.03",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=2&subtype=3&num=1&code=09FC07"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.12.17",
+                "처리일": "2025.12.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제5차 회의록",
+                "RELATED_MEETING_NM": "제5차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=1&subtype=0&num=5&code=09FB0B",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 기술자문위원회 조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092803",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092803",
+        "BI_NO": "2803 (제340회)",
+        "BI_SJ": "서울특별시 구로구 수리 문화 확산 지원에 관한 조례안",
+        "ITNC_DE": "2025.11.19",
+        "PROPSR": "김미주",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 수리 문화 확산 지원에 관한 조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/0T&code=09FC0T&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 수리 문화 확산 지원에 관한 조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/0T&code=09FC0T&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.12.03",
+                "처리일": "2025.12.03",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=2&subtype=3&num=1&code=09FC02"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.12.17",
+                "처리일": "2025.12.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제5차 회의록",
+                "RELATED_MEETING_NM": "제5차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=1&subtype=0&num=5&code=09FB0B",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 수리 문화 확산 지원에 관한 조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092802",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092802",
+        "BI_NO": "2802 (제340회)",
+        "BI_SJ": "서울특별시 구로구 공공디자인 진흥 조례 일부개정조례안",
+        "ITNC_DE": "2025.11.19",
+        "PROPSR": "김미주",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 공공디자인 진흥 조례 일부개정조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/0U&code=09FC0U&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 공공디자인 진흥 조례 일부개정조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/0U&code=09FC0U&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.12.03",
+                "처리일": "2025.12.03",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=2&subtype=3&num=1&code=09FC03"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.12.17",
+                "처리일": "2025.12.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제5차 회의록",
+                "RELATED_MEETING_NM": "제5차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=1&subtype=0&num=5&code=09FB0B",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 공공디자인 진흥 조례 일부개정조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092790",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092790",
+        "BI_NO": "2790 (제340회)",
+        "BI_SJ": "2026년도 구로구 기금운용계획안",
+        "ITNC_DE": "2025.11.18",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "계획안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": [
+            "2026년도 구로구 기금운용계획안",
+            "2026년도 구로구 기금운용계획안(복지건설위원회 소관)",
+            "2026년도 구로구 기금운용계획안(제안설명)",
+            "2026년도 구로구 기금운용계획안(검토보고서)"
+        ],
+        "BI_FILE_URL": [
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FD/07&code=09FD07&ext=00.HWP",
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/15&code=09FC15&ext=",
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1P&code=09FC1P&ext=00.PDF",
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1Q&code=09FC1Q&ext=00.HWP"
+        ],
+        "attachments": [
+            {
+                "name": "2026년도 구로구 기금운용계획안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FD/07&code=09FD07&ext=00.HWP"
+            },
+            {
+                "name": "2026년도 구로구 기금운용계획안(복지건설위원회 소관)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/15&code=09FC15&ext="
+            },
+            {
+                "name": "2026년도 구로구 기금운용계획안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1P&code=09FC1P&ext=00.PDF"
+            },
+            {
+                "name": "2026년도 구로구 기금운용계획안(검토보고서)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1Q&code=09FC1Q&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "예산결산특별위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.12.11",
+                "처리일": "2025.12.11",
+                "CMIT_RESULT": "수정가결",
+                "CMIT_RELATED_MEETING": "제3차 회의록 제5차 회의록 제5차 회의록",
+                "RELATED_MEETING_NM": [
+                    "제3차 회의록",
+                    "제5차 회의록",
+                    "제5차 회의록"
+                ],
+                "RELATED_MEETING_URL": [
+                    "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=3&subtype=1&num=3&code=09FD04",
+                    "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=2&subtype=2&num=5&code=09FC0N",
+                    "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=2&subtype=3&num=5&code=09FC0P"
+                ]
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.12.17",
+                "처리일": "2025.12.17",
+                "PLNMT_RESULT": "수정가결",
+                "PLNMT_RELATED_MEETING": "제1차 회의록 제5차 회의록",
+                "RELATED_MEETING_NM": [
+                    "제1차 회의록",
+                    "제5차 회의록"
+                ],
+                "RELATED_MEETING_URL": [
+                    "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=1&subtype=0&num=1&code=09FB04",
+                    "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=1&subtype=0&num=5&code=09FB0C"
+                ],
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "2026년도 구로구 기금운용계획안 2026년도 구로구 기금운용계획안(복지건설위원회 소관) 2026년도 구로구 기금운용계획안(제안설명) 2026년도 구로구 기금운용계획안(검토보고서)"
+            }
+        }
+    },
+    {
+        "view_id": "0092789",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092789",
+        "BI_NO": "2789 (제340회)",
+        "BI_SJ": "2026년도 예산안",
+        "ITNC_DE": "2025.11.18",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "예산안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": [
+            "2026년도 예산안",
+            "2026년도 예산안(복지지원국 소관)",
+            "2026년도 예산안(안전교통국 소관)",
+            "2026년도 예산안(건설정책국 소관)",
+            "2026년도 예산안(스마트환경국 소관)",
+            "2026년도 예산안(행정관리국 소관)",
+            "2026년도 예산안(검토보고서)",
+            "2026년도 예산안(감사담당관 소관)",
+            "2026년도 예산안(홍보담당관 소관)",
+            "2026년도 예산안(기획경제국 소관)",
+            "2026년도 예산안(검토보고서)",
+            "2026년도 예산안(보건소 소관)",
+            "2026년도 예산안(검토보고서)",
+            "2026년도 예산안(주택정책국 소관)"
+        ],
+        "BI_FILE_URL": [
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FD/06&code=09FD06&ext=00.HWP",
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/11&code=09FC11&ext=00.PDF",
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/12&code=09FC12&ext=",
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/13&code=09FC13&ext=",
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/14&code=09FC14&ext=",
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1G&code=09FC1G&ext=00.PDF",
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1I&code=09FC1I&ext=01.HWP",
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1J&code=09FC1J&ext=00.PDF",
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1K&code=09FC1K&ext=00.PDF",
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1L&code=09FC1L&ext=00.PDF",
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1M&code=09FC1M&ext=00.HWP",
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1N&code=09FC1N&ext=00.PDF",
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1O&code=09FC1O&ext=00.HWP",
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1R&code=09FC1R&ext=00.PDF"
+        ],
+        "attachments": [
+            {
+                "name": "2026년도 예산안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FD/06&code=09FD06&ext=00.HWP"
+            },
+            {
+                "name": "2026년도 예산안(복지지원국 소관)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/11&code=09FC11&ext=00.PDF"
+            },
+            {
+                "name": "2026년도 예산안(안전교통국 소관)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/12&code=09FC12&ext="
+            },
+            {
+                "name": "2026년도 예산안(건설정책국 소관)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/13&code=09FC13&ext="
+            },
+            {
+                "name": "2026년도 예산안(스마트환경국 소관)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/14&code=09FC14&ext="
+            },
+            {
+                "name": "2026년도 예산안(행정관리국 소관)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1G&code=09FC1G&ext=00.PDF"
+            },
+            {
+                "name": "2026년도 예산안(검토보고서)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1I&code=09FC1I&ext=01.HWP"
+            },
+            {
+                "name": "2026년도 예산안(감사담당관 소관)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1J&code=09FC1J&ext=00.PDF"
+            },
+            {
+                "name": "2026년도 예산안(홍보담당관 소관)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1K&code=09FC1K&ext=00.PDF"
+            },
+            {
+                "name": "2026년도 예산안(기획경제국 소관)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1L&code=09FC1L&ext=00.PDF"
+            },
+            {
+                "name": "2026년도 예산안(검토보고서)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1M&code=09FC1M&ext=00.HWP"
+            },
+            {
+                "name": "2026년도 예산안(보건소 소관)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1N&code=09FC1N&ext=00.PDF"
+            },
+            {
+                "name": "2026년도 예산안(검토보고서)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1O&code=09FC1O&ext=00.HWP"
+            },
+            {
+                "name": "2026년도 예산안(주택정책국 소관)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1R&code=09FC1R&ext=00.PDF"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "예산결산특별위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.12.11",
+                "처리일": "2025.12.11",
+                "CMIT_RESULT": "수정가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록 제2차 회의록 제3차 회의록 제2차 회의록 제3차 회의록 제4차 회의록",
+                "RELATED_MEETING_NM": [
+                    "제1차 회의록",
+                    "제2차 회의록",
+                    "제3차 회의록",
+                    "제2차 회의록",
+                    "제3차 회의록",
+                    "제4차 회의록"
+                ],
+                "RELATED_MEETING_URL": [
+                    "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=3&subtype=1&num=1&code=09FD01",
+                    "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=3&subtype=1&num=2&code=09FD02",
+                    "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=3&subtype=1&num=3&code=09FD03",
+                    "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=2&subtype=3&num=2&code=09FC0H",
+                    "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=2&subtype=3&num=3&code=09FC0K",
+                    "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=2&subtype=3&num=4&code=09FC0L"
+                ]
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.12.17",
+                "처리일": "2025.12.17",
+                "PLNMT_RESULT": "수정가결",
+                "PLNMT_RELATED_MEETING": "제1차 회의록 제1차 회의록 제5차 회의록",
+                "RELATED_MEETING_NM": [
+                    "제1차 회의록",
+                    "제1차 회의록",
+                    "제5차 회의록"
+                ],
+                "RELATED_MEETING_URL": [
+                    "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=1&subtype=0&num=1&code=09FB03",
+                    "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=1&subtype=0&num=1&code=09FB04",
+                    "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=1&subtype=0&num=5&code=09FB0C"
+                ],
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "2026년도 예산안 2026년도 예산안(복지지원국 소관) 2026년도 예산안(안전교통국 소관) 2026년도 예산안(건설정책국 소관) 2026년도 예산안(스마트환경국 소관) 2026년도 예산안(행정관리국 소관) 2026년도 예산안(검토보고서) 2026년도 예산안(감사담당관 소관) 2026년도 예산안(홍보담당관 소관) 2026년도 예산안(기획경제국 소관) 2026년도 예산안(검토보고서) 2026년도 예산안(보건소 소관) 2026년도 예산안(검토보고서) 2026년도 예산안(주택정책국 소관)"
+            }
+        }
+    },
+    {
+        "view_id": "0092786",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092786",
+        "BI_NO": "2786 (제340회)",
+        "BI_SJ": "구청장 및 관계공무원 출석요구의 건",
+        "ITNC_DE": "2025.11.18",
+        "PROPSR": "김철수(국)",
+        "BI_KND_NM": "기타",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "운영위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.11.20",
+                "처리일": "2025.11.20",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": ""
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.11.27",
+                "처리일": "2025.11.27",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=1&subtype=0&num=1&code=09FB02",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": ""
+            }
+        }
+    },
+    {
+        "view_id": "0092800",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092800",
+        "BI_NO": "2800 (제340회)",
+        "BI_SJ": "구로구 미집행 도시계획시설 단계별집행계획 수립에 대한 의견청취(안)",
+        "ITNC_DE": "2025.11.17",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "의견청취",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "구로구 미집행 도시계획시설 단계별집행계획 수립에 대한 의견청취(안)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/0Z&code=09FC0Z&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "구로구 미집행 도시계획시설 단계별집행계획 수립에 대한 의견청취(안)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/0Z&code=09FC0Z&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.12.03",
+                "처리일": "2025.12.03",
+                "CMIT_RESULT": "원안채택",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=2&subtype=3&num=1&code=09FC08"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.12.17",
+                "처리일": "2025.12.17",
+                "PLNMT_RESULT": "원안채택",
+                "PLNMT_RELATED_MEETING": "제5차 회의록",
+                "RELATED_MEETING_NM": "제5차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=1&subtype=0&num=5&code=09FB0B",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "구로구 미집행 도시계획시설 단계별집행계획 수립에 대한 의견청취(안)"
+            }
+        }
+    },
+    {
+        "view_id": "0092799",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092799",
+        "BI_NO": "2799 (제340회)",
+        "BI_SJ": "2025년도 공유재산 관리계획(안) 구로 생각공장 내 근린생활시설 기부채납",
+        "ITNC_DE": "2025.11.17",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "계획안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "2025년도 공유재산관리계획(안) 구로 생각공장 내 근린생활시설 기부채납의 건(제안설명)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1C&code=09FC1C&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "2025년도 공유재산관리계획(안) 구로 생각공장 내 근린생활시설 기부채납의 건(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1C&code=09FC1C&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.12.03",
+                "처리일": "2025.12.03",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=2&subtype=2&num=1&code=09FC0D"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.12.17",
+                "처리일": "2025.12.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제5차 회의록",
+                "RELATED_MEETING_NM": "제5차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=1&subtype=0&num=5&code=09FB0A",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "2025년도 공유재산관리계획(안) 구로 생각공장 내 근린생활시설 기부채납의 건(제안설명)"
+            }
+        }
+    },
+    {
+        "view_id": "0092798",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092798",
+        "BI_NO": "2798 (제340회)",
+        "BI_SJ": "소상공인 특례보증재원 출연 동의안",
+        "ITNC_DE": "2025.11.17",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "소상공인 특례보증재원 출연 동의안(제안설명)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1A&code=09FC1A&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "소상공인 특례보증재원 출연 동의안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1A&code=09FC1A&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.12.03",
+                "처리일": "2025.12.03",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=2&subtype=2&num=1&code=09FC0B"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.12.17",
+                "처리일": "2025.12.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제5차 회의록",
+                "RELATED_MEETING_NM": "제5차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=1&subtype=0&num=5&code=09FB0A",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "소상공인 특례보증재원 출연 동의안(제안설명)"
+            }
+        }
+    },
+    {
+        "view_id": "0092797",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092797",
+        "BI_NO": "2797 (제340회)",
+        "BI_SJ": "서울특별시 구로구 폐기물 관리 조례 일부개정조례안",
+        "ITNC_DE": "2025.11.17",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 폐기물 관리 조례 일부개정조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/0S&code=09FC0S&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 폐기물 관리 조례 일부개정조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/0S&code=09FC0S&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.12.03",
+                "처리일": "2025.12.03",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=2&subtype=3&num=1&code=09FC01"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.12.17",
+                "처리일": "2025.12.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제5차 회의록",
+                "RELATED_MEETING_NM": "제5차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=1&subtype=0&num=5&code=09FB0B",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 폐기물 관리 조례 일부개정조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092796",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092796",
+        "BI_NO": "2796 (제340회)",
+        "BI_SJ": "서울특별시 구로구 노인복지기금 설치 및 운용 조례 일부개정조례안",
+        "ITNC_DE": "2025.11.17",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 노인복지기금 설치 및 운용 조례 일부개정조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/0W&code=09FC0W&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 노인복지기금 설치 및 운용 조례 일부개정조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/0W&code=09FC0W&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.12.03",
+                "처리일": "2025.12.03",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=2&subtype=3&num=1&code=09FC05"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.12.17",
+                "처리일": "2025.12.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제5차 회의록",
+                "RELATED_MEETING_NM": "제5차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=1&subtype=0&num=5&code=09FB0B",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 노인복지기금 설치 및 운용 조례 일부개정조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092795",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092795",
+        "BI_NO": "2795 (제340회)",
+        "BI_SJ": "서울특별시 구로구 지역사회 통합돌봄 지원 조례 전부개정조례안",
+        "ITNC_DE": "2025.11.17",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 지역사회 통합돌봄 지원 조례 전부개정조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/0X&code=09FC0X&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 지역사회 통합돌봄 지원 조례 전부개정조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/0X&code=09FC0X&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.12.03",
+                "처리일": "2025.12.03",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=2&subtype=3&num=1&code=09FC06"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.12.17",
+                "처리일": "2025.12.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제5차 회의록",
+                "RELATED_MEETING_NM": "제5차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=1&subtype=0&num=5&code=09FB0B",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 지역사회 통합돌봄 지원 조례 전부개정조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092794",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092794",
+        "BI_NO": "2794 (제340회)",
+        "BI_SJ": "서울특별시 구로구 지역상품 우선 구매에 관한 조례 일부개정조례안",
+        "ITNC_DE": "2025.11.17",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 지역상품 우선 구매에 관한 조례 일부개정조례안(제안설명)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/19&code=09FC19&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 지역상품 우선 구매에 관한 조례 일부개정조례안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/19&code=09FC19&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.12.03",
+                "처리일": "2025.12.03",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=2&subtype=2&num=1&code=09FC0A"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.12.17",
+                "처리일": "2025.12.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제5차 회의록",
+                "RELATED_MEETING_NM": "제5차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=1&subtype=0&num=5&code=09FB0A",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 지역상품 우선 구매에 관한 조례 일부개정조례안(제안설명)"
+            }
+        }
+    },
+    {
+        "view_id": "0092793",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092793",
+        "BI_NO": "2793 (제340회)",
+        "BI_SJ": "서울특별시 구로구 자원봉사활동 지원 조례 일부개정조례안",
+        "ITNC_DE": "2025.11.17",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 자원봉사활동 지원 조례 일부개정조례안(제안설명)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1F&code=09FC1F&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 자원봉사활동 지원 조례 일부개정조례안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1F&code=09FC1F&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.12.03",
+                "처리일": "2025.12.03",
+                "CMIT_RESULT": "수정가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=2&subtype=2&num=1&code=09FC0G"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.12.17",
+                "처리일": "2025.12.17",
+                "PLNMT_RESULT": "수정가결",
+                "PLNMT_RELATED_MEETING": "제5차 회의록",
+                "RELATED_MEETING_NM": "제5차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=1&subtype=0&num=5&code=09FB0A",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 자원봉사활동 지원 조례 일부개정조례안(제안설명)"
+            }
+        }
+    },
+    {
+        "view_id": "0092792",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092792",
+        "BI_NO": "2792 (제340회)",
+        "BI_SJ": "서울특별시 구로구 지방공무원 정원 조례 일부개정조례안",
+        "ITNC_DE": "2025.11.17",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 지방공무원 정원 조례 일부개정조례안(제안설명)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1E&code=09FC1E&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 지방공무원 정원 조례 일부개정조례안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1E&code=09FC1E&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.12.03",
+                "처리일": "2025.12.03",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=2&subtype=2&num=1&code=09FC0F"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.12.17",
+                "처리일": "2025.12.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제5차 회의록",
+                "RELATED_MEETING_NM": "제5차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=1&subtype=0&num=5&code=09FB0A",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 지방공무원 정원 조례 일부개정조례안(제안설명)"
+            }
+        }
+    },
+    {
+        "view_id": "0092791",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092791",
+        "BI_NO": "2791 (제340회)",
+        "BI_SJ": "서울특별시 구로구 행정기구 설치 조례 일부개정조례안",
+        "ITNC_DE": "2025.11.17",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 행정기구 설치 조례 일부개정조례안(제안설명)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1D&code=09FC1D&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 행정기구 설치 조례 일부개정조례안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/FC/1D&code=09FC1D&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.12.03",
+                "처리일": "2025.12.03",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=2&subtype=2&num=1&code=09FC0E"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.12.17",
+                "처리일": "2025.12.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제5차 회의록",
+                "RELATED_MEETING_NM": "제5차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=340&contype=1&subtype=0&num=5&code=09FB0A",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 행정기구 설치 조례 일부개정조례안(제안설명)"
+            }
+        }
+    },
+    {
+        "view_id": "0092785",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092785",
+        "BI_NO": "2785 (제339회)",
+        "BI_SJ": "서울특별시 구로구 병역명문가 예우에 관한 조례 일부개정조례안",
+        "ITNC_DE": "2025.10.16",
+        "PROPSR": "이명숙",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 병역명문가 예우에 관한 조례 일부개정조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/1M&code=09EC1M&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 병역명문가 예우에 관한 조례 일부개정조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/1M&code=09EC1M&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.10.27",
+                "처리일": "2025.10.27",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=2&subtype=3&num=1&code=09EC03"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.11.04",
+                "처리일": "2025.11.04",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=1&subtype=0&num=2&code=09EB05",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 병역명문가 예우에 관한 조례 일부개정조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092784",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092784",
+        "BI_NO": "2784 (제339회)",
+        "BI_SJ": "서울특별시 구로구 전기자동차 전용주차구역의 화재예방 및 안전시설 지원에 관한 조례 일부개정조례안",
+        "ITNC_DE": "2025.10.16",
+        "PROPSR": "전미숙",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 전기자동차 전용주차구역의 화재예방 및 안전시설 지원에 관한 조례 일부개정조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/1Q&code=09EC1Q&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 전기자동차 전용주차구역의 화재예방 및 안전시설 지원에 관한 조례 일부개정조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/1Q&code=09EC1Q&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.10.27",
+                "처리일": "2025.10.27",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=2&subtype=3&num=1&code=09EC07"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.11.04",
+                "처리일": "2025.11.04",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=1&subtype=0&num=2&code=09EB05",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 전기자동차 전용주차구역의 화재예방 및 안전시설 지원에 관한 조례 일부개정조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092783",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092783",
+        "BI_NO": "2783 (제339회)",
+        "BI_SJ": "서울특별시 구로구 상징물 조례안",
+        "ITNC_DE": "2025.10.16",
+        "PROPSR": "김철수(민) 의원",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 상징물 조례안(제안설명)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/0T&code=09EC0T&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 상징물 조례안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/0T&code=09EC0T&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "",
+                "처리일": "",
+                "CMIT_RESULT": "",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=2&subtype=2&num=1&code=09EC0B"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "",
+                "처리일": "",
+                "PLNMT_RESULT": "",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=1&subtype=0&num=2&code=09EB04",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 상징물 조례안(제안설명)"
+            }
+        }
+    },
+    {
+        "view_id": "0092782",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092782",
+        "BI_NO": "2782 (제339회)",
+        "BI_SJ": "서울특별시 구로구 가로수 조성 및 관리 조례 일부개정조례안",
+        "ITNC_DE": "2025.10.16",
+        "PROPSR": "최태영",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 가로수 조성 및 관리 조례 일부개정조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/1J&code=09EC1J&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 가로수 조성 및 관리 조례 일부개정조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/1J&code=09EC1J&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.10.27",
+                "처리일": "2025.10.27",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=2&subtype=3&num=1&code=09EC00"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.11.04",
+                "처리일": "2025.11.04",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=1&subtype=0&num=2&code=09EB05",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 가로수 조성 및 관리 조례 일부개정조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092781",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092781",
+        "BI_NO": "2781 (제339회)",
+        "BI_SJ": "서울특별시 구로구 시각장애인 보도점자블록 설치 및 관리 조례안",
+        "ITNC_DE": "2025.10.16",
+        "PROPSR": "양명희",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 시각장애인 보도점자블록 설치 및 관리 조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/1K&code=09EC1K&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 시각장애인 보도점자블록 설치 및 관리 조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/1K&code=09EC1K&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.10.27",
+                "처리일": "2025.10.27",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=2&subtype=3&num=1&code=09EC01"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.11.04",
+                "처리일": "2025.11.04",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=1&subtype=0&num=2&code=09EB05",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 시각장애인 보도점자블록 설치 및 관리 조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092780",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092780",
+        "BI_NO": "2780 (제339회)",
+        "BI_SJ": "서울특별시 구로구 예방접종 지원 조례안",
+        "ITNC_DE": "2025.10.16",
+        "PROPSR": "방은경",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 예방접종 지원 조례안(제안설명)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/0S&code=09EC0S&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 예방접종 지원 조례안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/0S&code=09EC0S&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.10.27",
+                "처리일": "2025.10.27",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=2&subtype=2&num=1&code=09EC0A"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.11.04",
+                "처리일": "2025.11.04",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=1&subtype=0&num=2&code=09EB04",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 예방접종 지원 조례안(제안설명)"
+            }
+        }
+    },
+    {
+        "view_id": "0092779",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092779",
+        "BI_NO": "2779 (제339회)",
+        "BI_SJ": "2026년도 (재)구로희망복지재단 출연 동의안",
+        "ITNC_DE": "2025.10.14",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "2026년도 (재)구로희망복지재단 출연 동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/1N&code=09EC1N&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "2026년도 (재)구로희망복지재단 출연 동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/1N&code=09EC1N&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.10.27",
+                "처리일": "2025.10.27",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=2&subtype=3&num=1&code=09EC04"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.11.04",
+                "처리일": "2025.11.04",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "2026년도 (재)구로희망복지재단 출연 동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092778",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092778",
+        "BI_NO": "2778 (제339회)",
+        "BI_SJ": "2026년도 한국지방세연구원 출연 동의안",
+        "ITNC_DE": "2025.10.14",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "2026년도 한국지방세연구원 출연 동의안(제안설명)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/10&code=09EC10&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "2026년도 한국지방세연구원 출연 동의안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/10&code=09EC10&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.10.27",
+                "처리일": "2025.10.27",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=2&subtype=2&num=1&code=09EC0I"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.11.04",
+                "처리일": "2025.11.04",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=1&subtype=0&num=2&code=09EB04",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "2026년도 한국지방세연구원 출연 동의안(제안설명)"
+            }
+        }
+    },
+    {
+        "view_id": "0092777",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092777",
+        "BI_NO": "2777 (제339회)",
+        "BI_SJ": "「참좋은지방정부협의회」 운영규약 일부개정 보고",
+        "ITNC_DE": "2025.10.14",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "기타",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "「참좋은지방정부협의회」 운영규약 일부개정 보고의 건(제안설명)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/0Z&code=09EC0Z&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "「참좋은지방정부협의회」 운영규약 일부개정 보고의 건(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/0Z&code=09EC0Z&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.10.27",
+                "처리일": "2025.10.27",
+                "CMIT_RESULT": "보고",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=2&subtype=2&num=1&code=09EC0H"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": ".",
+                "처리일": ".",
+                "PLNMT_RESULT": ".",
+                "PLNMT_RELATED_MEETING": "",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "「참좋은지방정부협의회」 운영규약 일부개정 보고의 건(제안설명)"
+            }
+        }
+    },
+    {
+        "view_id": "0092776",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092776",
+        "BI_NO": "2776 (제339회)",
+        "BI_SJ": "2026년도 (재)구로구장학회 출연 동의안",
+        "ITNC_DE": "2025.10.14",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "2026년도 (재)구로구장학회 출연 동의안(제안설명)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/0Y&code=09EC0Y&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "2026년도 (재)구로구장학회 출연 동의안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/0Y&code=09EC0Y&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.10.27",
+                "처리일": "2025.10.27",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=2&subtype=2&num=1&code=09EC0G"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.11.04",
+                "처리일": "2025.11.04",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "2026년도 (재)구로구장학회 출연 동의안(제안설명)"
+            }
+        }
+    },
+    {
+        "view_id": "0092775",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092775",
+        "BI_NO": "2775 (제339회)",
+        "BI_SJ": "2026년도 구로문화재단 출연 동의안",
+        "ITNC_DE": "2025.10.14",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "2026년도 구로문화재단 출연 동의안(제안설명)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/0X&code=09EC0X&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "2026년도 구로문화재단 출연 동의안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/0X&code=09EC0X&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.10.27",
+                "처리일": "2025.10.27",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=2&subtype=2&num=1&code=09EC0F"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.11.04",
+                "처리일": "2025.11.04",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=1&subtype=0&num=2&code=09EB04",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "2026년도 구로문화재단 출연 동의안(제안설명)"
+            }
+        }
+    },
+    {
+        "view_id": "0092774",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092774",
+        "BI_NO": "2774 (제339회)",
+        "BI_SJ": "서울특별시 구로구 학생 치과주치의 및 저소득층 아동 의료지원 조례 전부개정조례안",
+        "ITNC_DE": "2025.10.14",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": [
+            "서울특별시 구로구 학생 치과주치의 및 저소득층 아동 의료지원 조례 전부개정조례안(제안설명)",
+            "서울특별시 구로구 학생 치과주치의 및 저소득층 아동 의료지원 조례 전부개정조례안 외 8건(검토보고서)"
+        ],
+        "BI_FILE_URL": [
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/0R&code=09EC0R&ext=00.HWP",
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/1A&code=09EC1A&ext=00.HWP"
+        ],
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 학생 치과주치의 및 저소득층 아동 의료지원 조례 전부개정조례안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/0R&code=09EC0R&ext=00.HWP"
+            },
+            {
+                "name": "서울특별시 구로구 학생 치과주치의 및 저소득층 아동 의료지원 조례 전부개정조례안 외 8건(검토보고서)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/1A&code=09EC1A&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.10.27",
+                "처리일": "2025.10.27",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=2&subtype=2&num=1&code=09EC09"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.11.04",
+                "처리일": "2025.11.04",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=1&subtype=0&num=2&code=09EB04",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 학생 치과주치의 및 저소득층 아동 의료지원 조례 전부개정조례안(제안설명) 서울특별시 구로구 학생 치과주치의 및 저소득층 아동 의료지원 조례 전부개정조례안 외 8건(검토보고서)"
+            }
+        }
+    },
+    {
+        "view_id": "0092773",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092773",
+        "BI_NO": "2773 (제339회)",
+        "BI_SJ": "서울특별시 구로구 도로굴착복구기금 설치 조례 일부개정조례안",
+        "ITNC_DE": "2025.10.14",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 도로굴착복구기금 설치 조례 일부개정조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/1L&code=09EC1L&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 도로굴착복구기금 설치 조례 일부개정조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/1L&code=09EC1L&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.10.27",
+                "처리일": "2025.10.27",
+                "CMIT_RESULT": "수정가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=2&subtype=3&num=1&code=09EC02"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.11.04",
+                "처리일": "2025.11.04",
+                "PLNMT_RESULT": "수정가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=1&subtype=0&num=2&code=09EB05",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 도로굴착복구기금 설치 조례 일부개정조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092772",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092772",
+        "BI_NO": "2772 (제339회)",
+        "BI_SJ": "서울특별시 구로구 발달장애인의 사회활동을 위한 보험 가입 및 지원 조례안",
+        "ITNC_DE": "2025.10.14",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 발달장애인의 사회활동을 위한 보험 가입 및 지원 조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/1P&code=09EC1P&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 발달장애인의 사회활동을 위한 보험 가입 및 지원 조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/1P&code=09EC1P&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.10.27",
+                "처리일": "2025.10.27",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=2&subtype=3&num=1&code=09EC06"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.11.04",
+                "처리일": "2025.11.04",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=1&subtype=0&num=2&code=09EB05",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 발달장애인의 사회활동을 위한 보험 가입 및 지원 조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092771",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092771",
+        "BI_NO": "2771 (제339회)",
+        "BI_SJ": "서울특별시 구로구 여성친화도시 조성에 관한 조례 일부개정조례안",
+        "ITNC_DE": "2025.10.14",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 여성친화도시 조성에 관한 조례 일부개정조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/1O&code=09EC1O&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 여성친화도시 조성에 관한 조례 일부개정조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/1O&code=09EC1O&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.10.27",
+                "처리일": "2025.10.27",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=2&subtype=3&num=1&code=09EC05"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.11.04",
+                "처리일": "2025.11.04",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=1&subtype=0&num=2&code=09EB05",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 여성친화도시 조성에 관한 조례 일부개정조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092770",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092770",
+        "BI_NO": "2770 (제339회)",
+        "BI_SJ": "서울특별시 구로구 지방공무원 정원 조례 일부개정조례안",
+        "ITNC_DE": "2025.10.14",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 지방공무원 정원 조례 일부개정조례안(제안설명)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/0V&code=09EC0V&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 지방공무원 정원 조례 일부개정조례안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/0V&code=09EC0V&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.10.27",
+                "처리일": "2025.10.27",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=2&subtype=2&num=1&code=09EC0D"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.11.04",
+                "처리일": "2025.11.04",
+                "PLNMT_RESULT": "부결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=1&subtype=0&num=2&code=09EB04",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 지방공무원 정원 조례 일부개정조례안(제안설명)"
+            }
+        }
+    },
+    {
+        "view_id": "0092769",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092769",
+        "BI_NO": "2769 (제339회)",
+        "BI_SJ": "서울특별시 구로구 행정기구 설치 조례 일부개정조례안",
+        "ITNC_DE": "2025.10.14",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 행정기구 설치 조례 일부개정조례안(제안설명)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/0U&code=09EC0U&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 행정기구 설치 조례 일부개정조례안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/EC/0U&code=09EC0U&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.10.27",
+                "처리일": "2025.10.27",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=2&subtype=2&num=1&code=09EC0C"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.11.04",
+                "처리일": "2025.11.04",
+                "PLNMT_RESULT": "부결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=339&contype=1&subtype=0&num=2&code=09EB04",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 행정기구 설치 조례 일부개정조례안(제안설명)"
+            }
+        }
+    },
+    {
+        "view_id": "0092768",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092768",
+        "BI_NO": "2768 (제338회)",
+        "BI_SJ": "서울특별시 구로구 주차장 설치 및 관리 조례 일부개정조례안",
+        "ITNC_DE": "2025.09.03",
+        "PROPSR": "방은경",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 주차장 설치 및 관리 조례 일부개정조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/18&code=09DC18&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 주차장 설치 및 관리 조례 일부개정조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/18&code=09DC18&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC01"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 주차장 설치 및 관리 조례 일부개정조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092767",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092767",
+        "BI_NO": "2767 (제338회)",
+        "BI_SJ": "서울특별시 구로구 장애인 이동기기 수리 지원에 관한 조례안",
+        "ITNC_DE": "2025.09.03",
+        "PROPSR": "김용권",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 장애인 이동기기 수리 지원에 관한 조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1A&code=09DC1A&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 장애인 이동기기 수리 지원에 관한 조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1A&code=09DC1A&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC03"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 장애인 이동기기 수리 지원에 관한 조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092766",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092766",
+        "BI_NO": "2766 (제338회)",
+        "BI_SJ": "서울특별시 구로구 해병대전우회 활동 지원에 관한 조례안",
+        "ITNC_DE": "2025.09.03",
+        "PROPSR": "노경숙",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 해병대전우회 활동 지원에 관한 조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1D&code=09DC1D&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 해병대전우회 활동 지원에 관한 조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1D&code=09DC1D&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC06"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 해병대전우회 활동 지원에 관한 조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092765",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092765",
+        "BI_NO": "2765 (제338회)",
+        "BI_SJ": "서울특별시 구로구 저소득층 장애인 직무능력 개발 지원 조례안",
+        "ITNC_DE": "2025.09.03",
+        "PROPSR": "이명숙",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 저소득층 장애인 직무능력 개발 지원 조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/19&code=09DC19&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 저소득층 장애인 직무능력 개발 지원 조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/19&code=09DC19&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC02"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 저소득층 장애인 직무능력 개발 지원 조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092764",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092764",
+        "BI_NO": "2764 (제338회)",
+        "BI_SJ": "서울특별시 구로구 현수막의 친환경 소재 사용 및 재활용 활성화 조례안",
+        "ITNC_DE": "2025.09.03",
+        "PROPSR": "김미주",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 현수막의 친환경 소재 사용 및 재활용 활성화 조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/21&code=09DC21&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 현수막의 친환경 소재 사용 및 재활용 활성화 조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/21&code=09DC21&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC0C"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 현수막의 친환경 소재 사용 및 재활용 활성화 조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092763",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092763",
+        "BI_NO": "2763 (제338회)",
+        "BI_SJ": "서울특별시 구로구 수수료 징수 조례 일부개정조례안",
+        "ITNC_DE": "2025.09.03",
+        "PROPSR": "양명희",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": [
+            "서울특별시 구로구 수수료 징수 조례 일부개정조례안 외 12건(검토보고서)",
+            "서울특별시 구로구 수수료 징수 조례 일부개정조례안(제안설명)"
+        ],
+        "BI_FILE_URL": [
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/0U&code=09DC0U&ext=00.HWP",
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/0V&code=09DC0V&ext=00.HWP"
+        ],
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 수수료 징수 조례 일부개정조례안 외 12건(검토보고서)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/0U&code=09DC0U&ext=00.HWP"
+            },
+            {
+                "name": "서울특별시 구로구 수수료 징수 조례 일부개정조례안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/0V&code=09DC0V&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": ""
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB07",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 수수료 징수 조례 일부개정조례안 외 12건(검토보고서) 서울특별시 구로구 수수료 징수 조례 일부개정조례안(제안설명)"
+            }
+        }
+    },
+    {
+        "view_id": "0092762",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092762",
+        "BI_NO": "2762 (제338회)",
+        "BI_SJ": "서울특별시 구로구 민원업무담당공무원 등의 보호 및 지원에 관한 조례 일부개정조례안",
+        "ITNC_DE": "2025.09.03",
+        "PROPSR": "홍용민",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 민원업무담당공무원 등의 보호 및 지원에 관한 조례 일부개정조례안(제안설명)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/11&code=09DC11&ext=01.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 민원업무담당공무원 등의 보호 및 지원에 관한 조례 일부개정조례안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/11&code=09DC11&ext=01.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=2&num=1&code=09DC0M"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB07",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 민원업무담당공무원 등의 보호 및 지원에 관한 조례 일부개정조례안(제안설명)"
+            }
+        }
+    },
+    {
+        "view_id": "0092761",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092761",
+        "BI_NO": "2761 (제338회)",
+        "BI_SJ": "서울특별시 구로구 빗물이용시설 설치 지원에 관한 조례안",
+        "ITNC_DE": "2025.09.03",
+        "PROPSR": "변정열",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 빗물이용시설 설치 지원에 관한 조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/20&code=09DC20&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 빗물이용시설 설치 지원에 관한 조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/20&code=09DC20&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC0B"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 빗물이용시설 설치 지원에 관한 조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092760",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092760",
+        "BI_NO": "2760 (제338회)",
+        "BI_SJ": "서울특별시 구로구 마약류 상품명 사용 문화 개선에 관한 조례안",
+        "ITNC_DE": "2025.09.03",
+        "PROPSR": "전미숙",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.03",
+                "처리일": "2025.09.03",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=2&num=1&code=09DC0K"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.03",
+                "처리일": "2025.09.03",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB07",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": ""
+            }
+        }
+    },
+    {
+        "view_id": "0092759",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092759",
+        "BI_NO": "2759 (제338회)",
+        "BI_SJ": "서울특별시 구로구 건전한 음주문화 환경조성 및 지원에 관한 조례 일부개정조례안",
+        "ITNC_DE": "2025.09.03",
+        "PROPSR": "김철수(국)",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 건전한 음주문화 환경조성 및 지원에 관한 조례 일부개정조례안(제안설명)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/0Y&code=09DC0Y&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 건전한 음주문화 환경조성 및 지원에 관한 조례 일부개정조례안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/0Y&code=09DC0Y&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=2&num=1&code=09DC0J"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB07",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 건전한 음주문화 환경조성 및 지원에 관한 조례 일부개정조례안(제안설명)"
+            }
+        }
+    },
+    {
+        "view_id": "0092758",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092758",
+        "BI_NO": "2758 (제338회)",
+        "BI_SJ": "서울특별시 구로구 점자문화 진흥 조례안",
+        "ITNC_DE": "2025.09.03",
+        "PROPSR": "곽노혁",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 점자문화 진흥 조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1B&code=09DC1B&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 점자문화 진흥 조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1B&code=09DC1B&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC04"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 점자문화 진흥 조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092757",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092757",
+        "BI_NO": "2757 (제338회)",
+        "BI_SJ": "서울특별시 구로구 치매관리 및 치매안심센터 설치ㆍ운영에 관한 조례 일부개정조례안",
+        "ITNC_DE": "2025.09.03",
+        "PROPSR": "김철수(민)",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=2&num=1&code=09DC0L"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB07",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": ""
+            }
+        }
+    },
+    {
+        "view_id": "0092756",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092756",
+        "BI_NO": "2756 (제338회)",
+        "BI_SJ": "2025년도 통합재정안정화기금운용계획 변경안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "기타",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "예산결산특별위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록 제1차 회의록",
+                "RELATED_MEETING_NM": [
+                    "제1차 회의록",
+                    "제1차 회의록"
+                ],
+                "RELATED_MEETING_URL": [
+                    "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=3&subtype=1&num=1&code=09DD02",
+                    "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=2&num=1&code=09DC0S"
+                ]
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB09",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": ""
+            }
+        }
+    },
+    {
+        "view_id": "0092755",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092755",
+        "BI_NO": "2755 (제338회)",
+        "BI_SJ": "「오류동 4번지 일대 주택정비형 재개발사업 정비계획(안) 결정 및 정비구역 지정」에 대한 의견청취(안)",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "의견청취",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "오류동 4번지 일대 주택정비형 재개발사업 정비계획(안) 결정 및 정비구역 지정」에 대한 의견 청취(안)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/22&code=09DC22&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "오류동 4번지 일대 주택정비형 재개발사업 정비계획(안) 결정 및 정비구역 지정」에 대한 의견 청취(안)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/22&code=09DC22&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안채택",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC0D"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안채택",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "오류동 4번지 일대 주택정비형 재개발사업 정비계획(안) 결정 및 정비구역 지정」에 대한 의견 청취(안)"
+            }
+        }
+    },
+    {
+        "view_id": "0092754",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092754",
+        "BI_NO": "2754 (제338회)",
+        "BI_SJ": "구로구 16호점 우리동네키움센터 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "구로구 16호점 우리동네키움센터 운영사무의 민간위탁 동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1Z&code=09DC1Z&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "구로구 16호점 우리동네키움센터 운영사무의 민간위탁 동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1Z&code=09DC1Z&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC0A"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "구로구 16호점 우리동네키움센터 운영사무의 민간위탁 동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092753",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092753",
+        "BI_NO": "2753 (제338회)",
+        "BI_SJ": "구로구 14호점 우리동네키움센터 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "구로구 14호점 우리동네키움센터 운영사무의 민간위탁 동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1Y&code=09DC1Y&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "구로구 14호점 우리동네키움센터 운영사무의 민간위탁 동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1Y&code=09DC1Y&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC0A"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "구로구 14호점 우리동네키움센터 운영사무의 민간위탁 동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092752",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092752",
+        "BI_NO": "2752 (제338회)",
+        "BI_SJ": "온종일돌봄센터 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "온종일돌봄센터 운영사무의 민간위탁 동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1X&code=09DC1X&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "온종일돌봄센터 운영사무의 민간위탁 동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1X&code=09DC1X&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC0A"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "온종일돌봄센터 운영사무의 민간위탁 동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092751",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092751",
+        "BI_NO": "2751 (제338회)",
+        "BI_SJ": "개봉3동 청소년시설 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "개봉3동 청소년시설 운영사무의 민간위탁 동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1W&code=09DC1W&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "개봉3동 청소년시설 운영사무의 민간위탁 동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1W&code=09DC1W&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC0A"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "개봉3동 청소년시설 운영사무의 민간위탁 동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092750",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092750",
+        "BI_NO": "2750 (제338회)",
+        "BI_SJ": "개봉2동 청소년시설 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "개봉2동 청소년시설 운영사무의 민간위탁 동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1V&code=09DC1V&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "개봉2동 청소년시설 운영사무의 민간위탁 동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1V&code=09DC1V&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC0A"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "개봉2동 청소년시설 운영사무의 민간위탁 동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092749",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092749",
+        "BI_NO": "2749 (제338회)",
+        "BI_SJ": "구로장애인전산교육장 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "구로장애인 전산교육장 운영사무의 민간위탁 동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1C&code=09DC1C&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "구로장애인 전산교육장 운영사무의 민간위탁 동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1C&code=09DC1C&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC05"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "구로장애인 전산교육장 운영사무의 민간위탁 동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092748",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092748",
+        "BI_NO": "2748 (제338회)",
+        "BI_SJ": "서울시구로구재가노인복지기관 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울시구로구재가노인복지기관 운영사무의 민간위탁 동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1U&code=09DC1U&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울시구로구재가노인복지기관 운영사무의 민간위탁 동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1U&code=09DC1U&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC09"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울시구로구재가노인복지기관 운영사무의 민간위탁 동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092747",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092747",
+        "BI_NO": "2747 (제338회)",
+        "BI_SJ": "국공립 원진어린이집 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": ""
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": ""
+            }
+        }
+    },
+    {
+        "view_id": "0092746",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092746",
+        "BI_NO": "2746 (제338회)",
+        "BI_SJ": "국공립 구립 구일어린이집 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "국공립 구립 구일어린이집 운영사무의 민간위탁 동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1S&code=09DC1S&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "국공립 구립 구일어린이집 운영사무의 민간위탁 동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1S&code=09DC1S&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC08"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "국공립 구립 구일어린이집 운영사무의 민간위탁 동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092745",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092745",
+        "BI_NO": "2745 (제338회)",
+        "BI_SJ": "국공립 꿈동산어린이집 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "국공립 꿈동산어린이집 운영사무의 민간위탁 동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1R&code=09DC1R&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "국공립 꿈동산어린이집 운영사무의 민간위탁 동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1R&code=09DC1R&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC08"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "국공립 꿈동산어린이집 운영사무의 민간위탁 동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092744",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092744",
+        "BI_NO": "2744 (제338회)",
+        "BI_SJ": "국공립 명화어린이집 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "국공립 명화어린이집 운영사무의 민간위탁 동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1Q&code=09DC1Q&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "국공립 명화어린이집 운영사무의 민간위탁 동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1Q&code=09DC1Q&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC08"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "국공립 명화어린이집 운영사무의 민간위탁 동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092743",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092743",
+        "BI_NO": "2743 (제338회)",
+        "BI_SJ": "국공립 하영어린이집 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "국공립 하영어린이집 운영사무의 민간위탁 동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1P&code=09DC1P&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "국공립 하영어린이집 운영사무의 민간위탁 동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1P&code=09DC1P&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC08"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "국공립 하영어린이집 운영사무의 민간위탁 동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092742",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092742",
+        "BI_NO": "2742 (제338회)",
+        "BI_SJ": "국공립 푸르니어린이집 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "국공립 푸르니어린이집 운영사무의 민간위탁 동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1O&code=09DC1O&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "국공립 푸르니어린이집 운영사무의 민간위탁 동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1O&code=09DC1O&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC08"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "국공립 푸르니어린이집 운영사무의 민간위탁 동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092741",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092741",
+        "BI_NO": "2741 (제338회)",
+        "BI_SJ": "국공립 보배사랑어린이집 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "국공립 보배사랑어린이집 운영사무의 민간위탁 동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1N&code=09DC1N&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "국공립 보배사랑어린이집 운영사무의 민간위탁 동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1N&code=09DC1N&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC08"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "국공립 보배사랑어린이집 운영사무의 민간위탁 동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092740",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092740",
+        "BI_NO": "2740 (제338회)",
+        "BI_SJ": "구로구청-벤처기업 공동직장어린이집(사랑채움) 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.02",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": ""
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": ""
+            }
+        }
+    },
+    {
+        "view_id": "0092739",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092739",
+        "BI_NO": "2739 (제338회)",
+        "BI_SJ": "국공립 현대열린어린이집 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "국공립 현대열린어린이집 운영사무의 민간위탁 동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1L&code=09DC1L&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "국공립 현대열린어린이집 운영사무의 민간위탁 동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1L&code=09DC1L&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC08"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "국공립 현대열린어린이집 운영사무의 민간위탁 동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092738",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092738",
+        "BI_NO": "2738 (제338회)",
+        "BI_SJ": "국공립 샛별어린이집 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "국공립 샛별어린이집 운영사무의 민간위탁 동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1K&code=09DC1K&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "국공립 샛별어린이집 운영사무의 민간위탁 동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1K&code=09DC1K&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC08"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "국공립 샛별어린이집 운영사무의 민간위탁 동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092737",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092737",
+        "BI_NO": "2737 (제338회)",
+        "BI_SJ": "국공립 미래어린이집 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "국공립 미래어린이집 운영사무의 민간위탁 동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1J&code=09DC1J&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "국공립 미래어린이집 운영사무의 민간위탁 동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1J&code=09DC1J&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC08"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "국공립 미래어린이집 운영사무의 민간위탁 동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092736",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092736",
+        "BI_NO": "2736 (제338회)",
+        "BI_SJ": "국공립 만나어린이집 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "국공립 만나어린이집 운영사무의 민간위탁 동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1I&code=09DC1I&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "국공립 만나어린이집 운영사무의 민간위탁 동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1I&code=09DC1I&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.02",
+                "처리일": "2025.09.02",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC08"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.02",
+                "처리일": "2025.09.02",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "국공립 만나어린이집 운영사무의 민간위탁 동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092735",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092735",
+        "BI_NO": "2735 (제338회)",
+        "BI_SJ": "국공립 능곡어린이집 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "국공립 능곡어린이집 운영사무의 민간위탁 동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1H&code=09DC1H&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "국공립 능곡어린이집 운영사무의 민간위탁 동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1H&code=09DC1H&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC08"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "국공립 능곡어린이집 운영사무의 민간위탁 동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092734",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092734",
+        "BI_NO": "2734 (제338회)",
+        "BI_SJ": "국공립 나래어린이집 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "국공립 나래어린이집 운영사무의 민간위탁 동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1G&code=09DC1G&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "국공립 나래어린이집 운영사무의 민간위탁 동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1G&code=09DC1G&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC08"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "국공립 나래어린이집 운영사무의 민간위탁 동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092733",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092733",
+        "BI_NO": "2733 (제338회)",
+        "BI_SJ": "국공립 꿈이있는어린이집 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "국공립 꿈이있는어린이집 운영사무의 민간위탁 동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1F&code=09DC1F&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "국공립 꿈이있는어린이집 운영사무의 민간위탁 동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/1F&code=09DC1F&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC08"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "국공립 꿈이있는어린이집 운영사무의 민간위탁 동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092732",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092732",
+        "sections": {}
+    },
+    {
+        "view_id": "0092731",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092731",
+        "BI_NO": "2731 (제338회)",
+        "BI_SJ": "고척열린도서관 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "고척열린도서관 운영사무의 민간위탁 동의안(제안설명)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/12&code=09DC12&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "고척열린도서관 운영사무의 민간위탁 동의안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/12&code=09DC12&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=2&num=1&code=09DC0P"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB07",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "고척열린도서관 운영사무의 민간위탁 동의안(제안설명)"
+            }
+        }
+    },
+    {
+        "view_id": "0092730",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092730",
+        "BI_NO": "2730 (제338회)",
+        "BI_SJ": "구로 중장년 일드림센터 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "구로 중장년 일드림센터 운영사무의 민간위탁 동의안(제안설명)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/0X&code=09DC0X&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "구로 중장년 일드림센터 운영사무의 민간위탁 동의안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/0X&code=09DC0X&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=2&num=1&code=09DC0I"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB07",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "구로 중장년 일드림센터 운영사무의 민간위탁 동의안(제안설명)"
+            }
+        }
+    },
+    {
+        "view_id": "0092729",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092729",
+        "BI_NO": "2729 (제338회)",
+        "BI_SJ": "서울특별시 구로구 통합재정안정화기금 설치 및 운용 조례 일부개정조례안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 통합재정안정화기금 설치 및 운용 조례 일부개정조례안(제안설명)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/0W&code=09DC0W&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 통합재정안정화기금 설치 및 운용 조례 일부개정조례안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/0W&code=09DC0W&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=2&num=1&code=09DC0H"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB07",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 통합재정안정화기금 설치 및 운용 조례 일부개정조례안(제안설명)"
+            }
+        }
+    },
+    {
+        "view_id": "0092728",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092728",
+        "BI_NO": "2728 (제338회)",
+        "BI_SJ": "서울특별시 구로구 체육시설의 설치 및 운영에 관한 조례 일부개정조례안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 체육시설의 설치 및 운영에 관한 조례 일부개정조례안(제안설명)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/13&code=09DC13&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 체육시설의 설치 및 운영에 관한 조례 일부개정조례안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/13&code=09DC13&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=2&num=1&code=09DC0Q"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB07",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 체육시설의 설치 및 운영에 관한 조례 일부개정조례안(제안설명)"
+            }
+        }
+    },
+    {
+        "view_id": "0092727",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092727",
+        "BI_NO": "2727 (제338회)",
+        "BI_SJ": "서울특별시 구로구 문화예술회관 설치 및 운영에 관한 조례 일부개정조례안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 문화예술회관 설치 및 운영에 관한 조례 일부개정조례안(제안설명)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/0Z&code=09DC0Z&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 문화예술회관 설치 및 운영에 관한 조례 일부개정조례안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/0Z&code=09DC0Z&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=2&num=1&code=09DC0O"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB07",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 문화예술회관 설치 및 운영에 관한 조례 일부개정조례안(제안설명)"
+            }
+        }
+    },
+    {
+        "view_id": "0092726",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092726",
+        "BI_NO": "2726 (제338회)",
+        "BI_SJ": "서울특별시 구로구 자치경찰사무 협력 및 지원 조례안",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 자치경찰사무 협력 및 지원 조례안(제안설명)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/10&code=09DC10&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 자치경찰사무 협력 및 지원 조례안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/10&code=09DC10&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "부결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=2&num=1&code=09DC0N"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "",
+                "처리일": "",
+                "PLNMT_RESULT": "",
+                "PLNMT_RELATED_MEETING": "",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 자치경찰사무 협력 및 지원 조례안(제안설명)"
+            }
+        }
+    },
+    {
+        "view_id": "0092025-1",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092025-1",
+        "BI_NO": "2025 (제338회)",
+        "BI_SJ": "서울수목원현대홈타운 아파트 부지 도로공사에 대한 주민들과의 협의·보상 절차 및 주민 피해 확인 요청 청원",
+        "ITNC_DE": "2025.09.02",
+        "PROPSR": "최태영의원",
+        "BI_KND_NM": "청원",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울수목원현대홈타운 아파트 부지 도로공사에 대한 주민들과의 협의·보상 절차 및 주민 피해 확인 요청 청원",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/17&code=09DC17&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울수목원현대홈타운 아파트 부지 도로공사에 대한 주민들과의 협의·보상 절차 및 주민 피해 확인 요청 청원",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/17&code=09DC17&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.12",
+                "처리일": "2025.09.12",
+                "CMIT_RESULT": "의견서채택",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC00"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "의견서채택",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울수목원현대홈타운 아파트 부지 도로공사에 대한 주민들과의 협의·보상 절차 및 주민 피해 확인 요청 청원"
+            }
+        }
+    },
+    {
+        "view_id": "0092725",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092725",
+        "BI_NO": "2725 (제338회)",
+        "BI_SJ": "2025년도 제2회 추가경정예산안",
+        "ITNC_DE": "2025.09.01",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "예산안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": [
+            "2025년도 제2회 추가경정예산안(행정기획위원회 소관)",
+            "2025년도 제2회 추가경정예산안 예비심사의 건"
+        ],
+        "BI_FILE_URL": [
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/15&code=09DC15&ext=00.PDF",
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/23&code=09DC23&ext=00.HWP"
+        ],
+        "attachments": [
+            {
+                "name": "2025년도 제2회 추가경정예산안(행정기획위원회 소관)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/15&code=09DC15&ext=00.PDF"
+            },
+            {
+                "name": "2025년도 제2회 추가경정예산안 예비심사의 건",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/DC/23&code=09DC23&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "예산결산특별위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.09.16",
+                "처리일": "2025.09.16",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록 제1차 회의록 제1차 회의록",
+                "RELATED_MEETING_NM": [
+                    "제1차 회의록",
+                    "제1차 회의록",
+                    "제1차 회의록"
+                ],
+                "RELATED_MEETING_URL": [
+                    "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=3&subtype=1&num=1&code=09DD01",
+                    "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=3&num=1&code=09DC0E",
+                    "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=2&subtype=2&num=1&code=09DC0R"
+                ]
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.09.17",
+                "처리일": "2025.09.17",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제1차 회의록 제2차 회의록",
+                "RELATED_MEETING_NM": [
+                    "제1차 회의록",
+                    "제2차 회의록"
+                ],
+                "RELATED_MEETING_URL": [
+                    "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=1&code=09DB02",
+                    "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=338&contype=1&subtype=0&num=2&code=09DB09"
+                ],
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "2025년도 제2회 추가경정예산안(행정기획위원회 소관) 2025년도 제2회 추가경정예산안 예비심사의 건"
+            }
+        }
+    },
+    {
+        "view_id": "0092724",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092724",
+        "BI_NO": "2724 (제337회)",
+        "BI_SJ": "서울특별시 구로구 마을버스 지원에 관한 조례 일부개정조례안",
+        "ITNC_DE": "2025.07.04",
+        "PROPSR": "김영곤",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 마을버스 지원에 관한 조례 일부개정조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/CC/19&code=09CC19&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 마을버스 지원에 관한 조례 일부개정조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/CC/19&code=09CC19&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.07.14",
+                "처리일": "2025.07.14",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=337&contype=2&subtype=3&num=1&code=09CC0E"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.07.22",
+                "처리일": "2025.07.22",
+                "PLNMT_RESULT": "부결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=337&contype=1&subtype=0&num=2&code=09CB09",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 마을버스 지원에 관한 조례 일부개정조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092723",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092723",
+        "BI_NO": "2723 (제337회)",
+        "BI_SJ": "서울특별시 구로구 저소득 어르신 돋보기 구입비 지원 조례안",
+        "ITNC_DE": "2025.07.04",
+        "PROPSR": "최태영",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 저소득 어르신 돋보기 구입비 지원 조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/CC/0X&code=09CC0X&ext=00.PDF",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 저소득 어르신 돋보기 구입비 지원 조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/CC/0X&code=09CC0X&ext=00.PDF"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.07.14",
+                "처리일": "2025.07.14",
+                "CMIT_RESULT": "부결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=337&contype=2&subtype=3&num=1&code=09CC0A"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "",
+                "처리일": "",
+                "PLNMT_RESULT": "",
+                "PLNMT_RELATED_MEETING": "",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 저소득 어르신 돋보기 구입비 지원 조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092722",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092722",
+        "BI_NO": "2722 (제337회)",
+        "BI_SJ": "서울특별시 구로구 장애청소년 상해보험 지원 조례안",
+        "ITNC_DE": "2025.07.04",
+        "PROPSR": "전미숙",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구 장애청소년 상해보험 지원 조례안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/CC/0Y&code=09CC0Y&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 장애청소년 상해보험 지원 조례안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/CC/0Y&code=09CC0Y&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.07.14",
+                "처리일": "2025.07.14",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=337&contype=2&subtype=3&num=1&code=09CC0B"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.07.22",
+                "처리일": "2025.07.22",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 장애청소년 상해보험 지원 조례안"
+            }
+        }
+    },
+    {
+        "view_id": "0092721",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092721",
+        "BI_NO": "2721 (제337회)",
+        "BI_SJ": "서울특별시 구로구 표창 조례 일부개정조례안",
+        "ITNC_DE": "2025.07.04",
+        "PROPSR": "김용권",
+        "BI_KND_NM": "조례안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": [
+            "서울특별시 구로구 표창 조례 일부개정조례안(제안설명)",
+            "서울특별시 구로구 표창 조례 일부개정조례안 등 5건(검토보고서)"
+        ],
+        "BI_FILE_URL": [
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/CC/05&code=09CC05&ext=00.HWP",
+            "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/CC/09&code=09CC09&ext="
+        ],
+        "attachments": [
+            {
+                "name": "서울특별시 구로구 표창 조례 일부개정조례안(제안설명)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/CC/05&code=09CC05&ext=00.HWP"
+            },
+            {
+                "name": "서울특별시 구로구 표창 조례 일부개정조례안 등 5건(검토보고서)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/CC/09&code=09CC09&ext="
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "행정기획위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.07.14",
+                "처리일": "2025.07.14",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=337&contype=2&subtype=2&num=1&code=09CC00"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.07.22",
+                "처리일": "2025.07.22",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=337&contype=1&subtype=0&num=2&code=09CB08",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구 표창 조례 일부개정조례안(제안설명) 서울특별시 구로구 표창 조례 일부개정조례안 등 5건(검토보고서)"
+            }
+        }
+    },
+    {
+        "view_id": "0092703",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092703",
+        "BI_NO": "2703 (제336회)",
+        "BI_SJ": "서울특별시 구로구의회 의원 연구단체 연구활동 결과보고(구로구 중소기업 정책 연구회)",
+        "ITNC_DE": "2025.07.04",
+        "PROPSR": "홍용민",
+        "BI_KND_NM": "기타",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구의회 의원 연구단체 연구활동 결과보고(구로구 중소기업 정책연구회)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/BC/1D&code=09BC1D&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구의회 의원 연구단체 연구활동 결과보고(구로구 중소기업 정책연구회)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/BC/1D&code=09BC1D&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "운영위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2027.07.07",
+                "처리일": "2027.07.07",
+                "CMIT_RESULT": "보고",
+                "CMIT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=336&contype=2&subtype=1&num=2&code=09BC18"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "",
+                "처리일": "",
+                "PLNMT_RESULT": "",
+                "PLNMT_RELATED_MEETING": "",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구의회 의원 연구단체 연구활동 결과보고(구로구 중소기업 정책연구회)"
+            }
+        }
+    },
+    {
+        "view_id": "0092702",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092702",
+        "BI_NO": "2702 (제336회)",
+        "BI_SJ": "서울특별시 구로구의회 의원 연구단체 등록 심의의 건(구로구 장애인 권익 사각지대 제로 연구회)",
+        "ITNC_DE": "2025.07.04",
+        "PROPSR": "곽노혁",
+        "BI_KND_NM": "기타",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구의회 의원 연구단체 등록 심의의 건(구로구 장애인 권익 사각지대 제로 연구회)",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/BC/1C&code=09BC1C&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구의회 의원 연구단체 등록 심의의 건(구로구 장애인 권익 사각지대 제로 연구회)",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/BC/1C&code=09BC1C&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "운영위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.07.07",
+                "처리일": "2025.07.07",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=336&contype=2&subtype=1&num=2&code=09BC17"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "",
+                "처리일": "",
+                "PLNMT_RESULT": "",
+                "PLNMT_RELATED_MEETING": "",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구의회 의원 연구단체 등록 심의의 건(구로구 장애인 권익 사각지대 제로 연구회)"
+            }
+        }
+    },
+    {
+        "view_id": "0092701",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092701",
+        "BI_NO": "2701 (제336회)",
+        "BI_SJ": "서울특별시 구로구의회 안전관리특별위원회 구성 결의안",
+        "ITNC_DE": "2025.07.04",
+        "PROPSR": "김철수(국)",
+        "BI_KND_NM": "결의안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구의회 안전관리특별위원회 구성 결의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/BC/1B&code=09BC1B&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구의회 안전관리특별위원회 구성 결의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/BC/1B&code=09BC1B&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "운영위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.07.07",
+                "처리일": "2025.07.07",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=336&contype=2&subtype=1&num=2&code=09BC15"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.07.14",
+                "처리일": "2025.07.14",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구의회 안전관리특별위원회 구성 결의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092700",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092700",
+        "BI_NO": "2700 (제336회)",
+        "BI_SJ": "서울특별시 구로구의회 예산결산특별위원회 구성 결의안",
+        "ITNC_DE": "2025.07.04",
+        "PROPSR": "김철수(국)",
+        "BI_KND_NM": "결의안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "서울특별시 구로구의회 예산결산특별위원회 구성 결의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/BC/1A&code=09BC1A&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "서울특별시 구로구의회 예산결산특별위원회 구성 결의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/BC/1A&code=09BC1A&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "운영위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.07.07",
+                "처리일": "2025.07.07",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=336&contype=2&subtype=1&num=2&code=09BC13"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.07.14",
+                "처리일": "2025.07.14",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "서울특별시 구로구의회 예산결산특별위원회 구성 결의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092720",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092720",
+        "BI_NO": "2720 (제337회)",
+        "BI_SJ": "2025년도 통합재정안정화기금운용계획 변경안",
+        "ITNC_DE": "2025.07.03",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "기타",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "2025년도 통합재정안정화기금운용계획 변경안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/CD/08&code=09CD08&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "2025년도 통합재정안정화기금운용계획 변경안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/CD/08&code=09CD08&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "예산결산특별위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.07.21",
+                "처리일": "2025.07.21",
+                "CMIT_RESULT": "원안가결",
+                "CMIT_RELATED_MEETING": "제3차 회의록",
+                "RELATED_MEETING_NM": "제3차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=337&contype=3&subtype=1&num=3&code=09CD06"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.07.22",
+                "처리일": "2025.07.22",
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=337&contype=1&subtype=0&num=2&code=09CB0A",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "2025년도 통합재정안정화기금운용계획 변경안"
+            }
+        }
+    },
+    {
+        "view_id": "0092719",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092719",
+        "BI_NO": "2719 (제337회)",
+        "BI_SJ": "「개봉동 49번지 일대 주택정비형 재개발사업 정비계획(안) 결정 및 정비구역 지정」에 대한 의견청취(안)",
+        "ITNC_DE": "2025.07.03",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "의견청취",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.07.14",
+                "처리일": "2025.07.14",
+                "CMIT_RESULT": "원안채택",
+                "CMIT_RELATED_MEETING": ""
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "2025.07.22",
+                "처리일": "2025.07.22",
+                "PLNMT_RESULT": "원안채택",
+                "PLNMT_RELATED_MEETING": "제2차 회의록",
+                "RELATED_MEETING_NM": "제2차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=337&contype=1&subtype=0&num=2&code=09CB09",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": ""
+            }
+        }
+    },
+    {
+        "view_id": "0092718",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092718",
+        "BI_NO": "2718 (제337회)",
+        "BI_SJ": "국공립 하영어린이집 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.07.03",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "국공립 하영어린이집 운영사무의 민간위탁동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/CC/18&code=09CC18&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "국공립 하영어린이집 운영사무의 민간위탁동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/CC/18&code=09CC18&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.07.03",
+                "처리일": "2025.07.03",
+                "CMIT_RESULT": "부결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=337&contype=2&subtype=3&num=1&code=09CC0C"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "",
+                "처리일": "",
+                "PLNMT_RESULT": "",
+                "PLNMT_RELATED_MEETING": "",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "국공립 하영어린이집 운영사무의 민간위탁동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092717",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092717",
+        "BI_NO": "2717 (제337회)",
+        "BI_SJ": "국공립 푸르니어린이집 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.07.03",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "국공립 푸르니어린이집 운영사무의 민간위탁동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/CC/17&code=09CC17&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "국공립 푸르니어린이집 운영사무의 민간위탁동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/CC/17&code=09CC17&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.07.14",
+                "처리일": "2025.07.14",
+                "CMIT_RESULT": "부결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=337&contype=2&subtype=3&num=1&code=09CC0C"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "",
+                "처리일": "",
+                "PLNMT_RESULT": "",
+                "PLNMT_RELATED_MEETING": "",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "국공립 푸르니어린이집 운영사무의 민간위탁동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092716",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092716",
+        "BI_NO": "2716 (제337회)",
+        "BI_SJ": "국공립 보배사랑어린이집 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.07.03",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "국공립 보배사랑어린이집 운영사무의 민간위탁동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/CC/16&code=09CC16&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "국공립 보배사랑어린이집 운영사무의 민간위탁동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/CC/16&code=09CC16&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.07.14",
+                "처리일": "2025.07.14",
+                "CMIT_RESULT": "부결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=337&contype=2&subtype=3&num=1&code=09CC0C"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "",
+                "처리일": "",
+                "PLNMT_RESULT": "",
+                "PLNMT_RELATED_MEETING": "",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "국공립 보배사랑어린이집 운영사무의 민간위탁동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092715",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092715",
+        "BI_NO": "2715 (제337회)",
+        "BI_SJ": "국공립 현대열린어린이집 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.07.03",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "국공립 현대열린어린이집 운영사무의 민간위탁동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/CC/15&code=09CC15&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "국공립 현대열린어린이집 운영사무의 민간위탁동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/CC/15&code=09CC15&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.07.14",
+                "처리일": "2025.07.14",
+                "CMIT_RESULT": "부결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=337&contype=2&subtype=3&num=1&code=09CC0C"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "",
+                "처리일": "",
+                "PLNMT_RESULT": "",
+                "PLNMT_RELATED_MEETING": "",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "국공립 현대열린어린이집 운영사무의 민간위탁동의안"
+            }
+        }
+    },
+    {
+        "view_id": "0092714",
+        "view_url": "https://www.guroc.go.kr/meeting/bill/billview.do?code=0092714",
+        "BI_NO": "2714 (제337회)",
+        "BI_SJ": "국공립 샛별어린이집 운영사무의 민간위탁 동의안",
+        "ITNC_DE": "2025.07.03",
+        "PROPSR": "구청장",
+        "BI_KND_NM": "동의.승인안",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "BI_FILE_NM": "국공립 샛별어린이집 운영사무의 민간위탁동의안",
+        "BI_FILE_URL": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/CC/14&code=09CC14&ext=00.HWP",
+        "attachments": [
+            {
+                "name": "국공립 샛별어린이집 운영사무의 민간위탁동의안",
+                "url": "https://www.guroc.go.kr/meeting/comm/download.do?mode=burok&path=09/CC/14&code=09CC14&ext=00.HWP"
+            }
+        ],
+        "sections": {
+            "위원회": {
+                "JRSD_CMIT_NM": "복지건설위원회",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "2025.07.14",
+                "처리일": "2025.07.14",
+                "CMIT_RESULT": "부결",
+                "CMIT_RELATED_MEETING": "제1차 회의록",
+                "RELATED_MEETING_NM": "제1차 회의록",
+                "RELATED_MEETING_URL": "https://www.guroc.go.kr/meeting/confer/popup.do?ntime=337&contype=2&subtype=3&num=1&code=09CC0C"
+            },
+            "본회의": {
+                "PLNMT_SBMISN_DE": "",
+                "처리일": "",
+                "PLNMT_RESULT": "",
+                "PLNMT_RELATED_MEETING": "",
+                "PRMLGT_DE": "",
+                "PRMLGT_NO": "",
+                "BI_FILE_NM": "국공립 샛별어린이집 운영사무의 민간위탁동의안"
+            }
+        }
+    }
+]
