@@ -597,7 +597,6 @@ async def stop_crawl():
 
 @app.get("/")
 async def root():
-    """API 정보"""
     return {
         "message": "전주시의회 의안 수집 API",
         "endpoints": {
