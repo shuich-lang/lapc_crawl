@@ -8,8 +8,14 @@ import datetime
 import re
 from typing import Dict, Any, List, Optional
 from urllib.parse import urljoin
+from fastapi import APIRouter
 
-app = FastAPI()
+#app = FastAPI()
+
+router = APIRouter(
+    prefix="/002008",
+    tags=["002008"]
+)
 
 # 크롤링 중단 플래그
 stop_scraping = False
@@ -19,17 +25,18 @@ LIST_URL = "https://www.guroc.go.kr/meeting/bill/search.do"
 DOWNLOAD_DIR = "download"
 
 
-@app.get("/")
+@router.get("/")
 async def root():
     return {
         "ok": True,
+        "site": "guroc",
         "endpoints": [
             "/002008/scrape",
             "/002008/scrapeView",
-            "/bill_002008/list",
-            "/bill_002008/view_data",
-            "/stop"
-        ]
+            "/002008/list",
+            "/002008/view_data",
+            "/002008/stop",
+        ],
     }
 
 
@@ -272,12 +279,12 @@ async def scrape_bills():
     print(f"List data scraped and saved to {filename}")
 
 
-@app.api_route("/002008/scrape", methods=["GET", "POST"])
-async def scrape_endpoint(background_tasks: BackgroundTasks):
-    global stop_scraping
-    stop_scraping = False
-    background_tasks.add_task(scrape_bills)
-    return {"message": "List scraping started in background"}
+# @app.api_route("/002008/scrape", methods=["GET", "POST"])
+# async def scrape_endpoint(background_tasks: BackgroundTasks):
+#     global stop_scraping
+#     stop_scraping = False
+#     background_tasks.add_task(scrape_bills)
+#     return {"message": "List scraping started in background"}
 
 
 # ---------------------------------------------------------
@@ -558,7 +565,6 @@ async def parse_attachment_row(row, item: Dict[str, Any]):
 
     file_names = []
     file_urls = []
-    attachments = []
 
     for link in links:
         name = clean_text(await link.inner_text())
@@ -572,10 +578,6 @@ async def parse_attachment_row(row, item: Dict[str, Any]):
         if name:
             file_names.append(name)
         file_urls.append(full_url)
-        attachments.append({
-            "name": name,
-            "url": full_url
-        })
 
     if file_names:
         item[file_name_key] = file_names[0] if len(file_names) == 1 else file_names
@@ -583,11 +585,20 @@ async def parse_attachment_row(row, item: Dict[str, Any]):
     if file_urls:
         item[file_url_key] = file_urls[0] if len(file_urls) == 1 else file_urls
 
-    if attachments:
-        item["attachments"] = attachments
+
+# @app.api_route("/002008/scrapeView", methods=["GET", "POST"])
+# async def scrape_view_endpoint():
+#     global stop_scraping
+#     stop_scraping = False
+
+#     data = await scrape_view_details(save_file=True)
+#     return data
 
 
-@app.api_route("/002008/scrapeView", methods=["GET", "POST"])
+# ---------------------------------------------------------
+# 파일 조회 API
+# ---------------------------------------------------------
+@router.api_route("/scrapeView", methods=["GET", "POST"])
 async def scrape_view_endpoint():
     global stop_scraping
     stop_scraping = False
@@ -596,34 +607,26 @@ async def scrape_view_endpoint():
     return data
 
 
-# ---------------------------------------------------------
-# 파일 조회 API
-# ---------------------------------------------------------
-@app.get("/bill_002008/list")
-async def get_list_data():
-    filename = _latest_file("bill_002008_list")
-    if filename and os.path.exists(filename):
-        with open(filename, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return {"error": "List data not found"}
-
-
-@app.get("/bill_002008/view_data")
-async def get_view_data():
-    filename = _latest_file("bill_002008_view")
-    if filename and os.path.exists(filename):
-        with open(filename, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return {"error": "View data not found"}
-
-
-@app.get("/stop")
-async def stop_scraping_endpoint():
+@router.api_route("/scrape", methods=["GET", "POST"])
+async def scrape_endpoint(background_tasks: BackgroundTasks):
     global stop_scraping
-    stop_scraping = True
-    return {"message": "Stop signal set. Current scraping will stop after current item."}
+    stop_scraping = False
+    background_tasks.add_task(scrape_bills)
+    return {"message": "List scraping started in background"}
+
+@router.get("/list")
+async def list_data():
+    return {"message": "002008 list"}
+
+@router.get("/view_data")
+async def view_data():
+    return {"message": "002008 view_data"}
+
+@router.get("/stop")
+async def stop():
+    return {"message": "002008 stop"}
 
 
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8900)
+# if __name__ == "__main__":
+#     import uvicorn
+#     uvicorn.run(app, host="0.0.0.0", port=8900)

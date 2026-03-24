@@ -1,0 +1,939 @@
+[
+    {
+        "view_id": "0070434",
+        "uid": "0070434",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070434",
+        "BI_NO": "0434",
+        "BI_SJ": "서울특별시 도봉구 정신건강증진센터 및도봉중독관리통합지원센터 설치운영에 관한 조례일부개정조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "복지건설위",
+        "PROCESS_DE": "2018-05-18",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "7",
+        "RASMBLY_SESN": "276",
+        "ITNC_DE": "2018-05-04",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "2018.05.18",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2018-05-04",
+                "CMIT_SBMISN_DE": "2018-05-15",
+                "CMIT_PROCESS_DE": "2018-05-15"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2018-05-18",
+                "PLNMT_SBMISN_DE": "2018-05-18",
+                "PLNMT_PROCESS_DE": "2018-05-18"
+            }
+        }
+    },
+    {
+        "view_id": "0070433",
+        "uid": "0070433",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070433",
+        "BI_NO": "0433",
+        "BI_SJ": "서울특별시 도봉구 도로점용공사장 교통소통대책에 관한 조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "복지건설위",
+        "RASMBLY_NUMPR": "7",
+        "RASMBLY_SESN": "276",
+        "ITNC_DE": "2018-05-04",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "폐기",
+                "FRWRD_DE": "2018-05-04",
+                "CMIT_SBMISN_DE": "2018-05-17",
+                "CMIT_PROCESS_DE": ""
+            },
+            "본회의": {
+                "PLNMT_RESULT": "",
+                "PLNMT_FRWRD_DE": "",
+                "PLNMT_SBMISN_DE": "",
+                "PLNMT_PROCESS_DE": ""
+            }
+        }
+    },
+    {
+        "view_id": "0070432",
+        "uid": "0070432",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070432",
+        "BI_NO": "0432",
+        "BI_SJ": "서울특별시 도봉구 재난관리기금 운용?관리 조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "복지건설위",
+        "RASMBLY_NUMPR": "7",
+        "RASMBLY_SESN": "276",
+        "ITNC_DE": "2018-05-04",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "폐기",
+                "FRWRD_DE": "2018-05-04",
+                "CMIT_SBMISN_DE": "2018-05-17",
+                "CMIT_PROCESS_DE": ""
+            },
+            "본회의": {
+                "PLNMT_RESULT": "",
+                "PLNMT_FRWRD_DE": "",
+                "PLNMT_SBMISN_DE": "",
+                "PLNMT_PROCESS_DE": ""
+            }
+        }
+    },
+    {
+        "view_id": "0070431",
+        "uid": "0070431",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070431",
+        "BI_NO": "0431",
+        "BI_SJ": "서울특별시 도봉구 사회재난 구호 및 복구 지원에 관한 조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "복지건설위",
+        "RASMBLY_NUMPR": "7",
+        "RASMBLY_SESN": "276",
+        "ITNC_DE": "2018-05-04",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "2018.05.18",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "폐기",
+                "FRWRD_DE": "2018-05-04",
+                "CMIT_SBMISN_DE": "2018-05-17",
+                "CMIT_PROCESS_DE": ""
+            },
+            "본회의": {
+                "PLNMT_RESULT": "",
+                "PLNMT_FRWRD_DE": "",
+                "PLNMT_SBMISN_DE": "",
+                "PLNMT_PROCESS_DE": ""
+            }
+        }
+    },
+    {
+        "view_id": "0070430",
+        "uid": "0070430",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070430",
+        "BI_NO": "0430",
+        "BI_SJ": "서울특별시 도봉구 옥외광고정비기금 설치 및 운용 조례 전부개정조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "복지건설위",
+        "PROCESS_DE": "2018-05-18",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "7",
+        "RASMBLY_SESN": "276",
+        "ITNC_DE": "2018-05-04",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "2018.05.18",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2018-05-04",
+                "CMIT_SBMISN_DE": "2018-05-15",
+                "CMIT_PROCESS_DE": "2018-05-15"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2018-05-18",
+                "PLNMT_SBMISN_DE": "2018-05-18",
+                "PLNMT_PROCESS_DE": "2018-05-18"
+            }
+        }
+    },
+    {
+        "view_id": "0070429",
+        "uid": "0070429",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070429",
+        "BI_NO": "0429",
+        "BI_SJ": "서울특별시 도봉구 옥외광고물 등 관리 조례 전부개정조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "복지건설위",
+        "PROCESS_DE": "2018-05-18",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "7",
+        "RASMBLY_SESN": "276",
+        "ITNC_DE": "2018-05-04",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2018-05-04",
+                "CMIT_SBMISN_DE": "2018-05-15",
+                "CMIT_PROCESS_DE": "2018-05-15"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2018-05-18",
+                "PLNMT_SBMISN_DE": "2018-05-18",
+                "PLNMT_PROCESS_DE": "2018-05-18"
+            }
+        }
+    },
+    {
+        "view_id": "0070428",
+        "uid": "0070428",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070428",
+        "BI_NO": "0428",
+        "BI_SJ": "서울특별시 도봉구 폐기물 관리 조례 일부개정조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "복지건설위",
+        "PROCESS_DE": "2018-05-18",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "7",
+        "RASMBLY_SESN": "276",
+        "ITNC_DE": "2018-05-04",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2018-05-04",
+                "CMIT_SBMISN_DE": "2018-05-14",
+                "CMIT_PROCESS_DE": "2018-05-15"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2018-05-18",
+                "PLNMT_SBMISN_DE": "2018-05-18",
+                "PLNMT_PROCESS_DE": "2018-05-18"
+            }
+        }
+    },
+    {
+        "view_id": "0070427",
+        "uid": "0070427",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070427",
+        "BI_NO": "0427",
+        "BI_SJ": "서울특별시 도봉구 음식물류 폐기물 관리기금 설치 및 운용 조례 일부개정조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "복지건설위",
+        "PROCESS_DE": "2018-05-18",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "7",
+        "RASMBLY_SESN": "276",
+        "ITNC_DE": "2018-05-04",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2018-05-04",
+                "CMIT_SBMISN_DE": "2018-05-14",
+                "CMIT_PROCESS_DE": "2018-05-15"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2018-05-18",
+                "PLNMT_SBMISN_DE": "2018-05-18",
+                "PLNMT_PROCESS_DE": "2018-05-18"
+            }
+        }
+    },
+    {
+        "view_id": "0070426",
+        "uid": "0070426",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070426",
+        "BI_NO": "0426",
+        "BI_SJ": "서울특별시 도봉구 국가보훈대상자 등 예우 및 지원에 관한 조례 일부개정조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "복지건설위",
+        "PROCESS_DE": "2018-05-18",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "7",
+        "RASMBLY_SESN": "276",
+        "ITNC_DE": "2018-05-04",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2018-05-04",
+                "CMIT_SBMISN_DE": "2018-05-14",
+                "CMIT_PROCESS_DE": "2018-05-15"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2018-05-18",
+                "PLNMT_SBMISN_DE": "2018-05-18",
+                "PLNMT_PROCESS_DE": "2018-05-18"
+            }
+        }
+    },
+    {
+        "view_id": "0070425",
+        "uid": "0070425",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070425",
+        "BI_NO": "0425",
+        "BI_SJ": "서울특별시 도봉구 구세 감면 조례 일부개정조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "행정기획위",
+        "PROCESS_DE": "2018-05-18",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "7",
+        "RASMBLY_SESN": "276",
+        "ITNC_DE": "2018-05-04",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2018-05-04",
+                "CMIT_SBMISN_DE": "2018-05-15",
+                "CMIT_PROCESS_DE": "2018-05-15"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2018-05-18",
+                "PLNMT_SBMISN_DE": "2018-05-18",
+                "PLNMT_PROCESS_DE": "2018-05-18"
+            }
+        }
+    },
+    {
+        "view_id": "0070424",
+        "uid": "0070424",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070424",
+        "BI_NO": "0424",
+        "BI_SJ": "서울특별시 도봉구 구세 조례 일부개정조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "행정기획위",
+        "RASMBLY_NUMPR": "7",
+        "ITNC_DE": "2018-05-04",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "계류중",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "",
+                "CMIT_PROCESS_DE": ""
+            },
+            "본회의": {
+                "PLNMT_RESULT": "계류중",
+                "PLNMT_FRWRD_DE": "",
+                "PLNMT_SBMISN_DE": "",
+                "PLNMT_PROCESS_DE": ""
+            }
+        }
+    },
+    {
+        "view_id": "0070423",
+        "uid": "0070423",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070423",
+        "BI_NO": "0423",
+        "BI_SJ": "서울특별시 도봉구 납세자보호관 배치 및 운영에 관한 조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "행정기획위",
+        "PROCESS_DE": "2018-05-18",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "7",
+        "ITNC_DE": "2018-05-04",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2018-05-04",
+                "CMIT_SBMISN_DE": "2018-05-15",
+                "CMIT_PROCESS_DE": "2018-05-15"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2018-05-18",
+                "PLNMT_SBMISN_DE": "2018-05-18",
+                "PLNMT_PROCESS_DE": "2018-05-18"
+            }
+        }
+    },
+    {
+        "view_id": "0070422",
+        "uid": "0070422",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070422",
+        "BI_NO": "0422",
+        "BI_SJ": "서울특별시 도봉구 여성구정평가단 구성 및 운영에 관한 조례 일부개정조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "행정기획위",
+        "PROCESS_DE": "2018-05-18",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "7",
+        "ITNC_DE": "2018-05-04",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "2018.05.18",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2018-05-04",
+                "CMIT_SBMISN_DE": "2018-05-16",
+                "CMIT_PROCESS_DE": "2018-05-16"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2018-05-18",
+                "PLNMT_SBMISN_DE": "2018-05-18",
+                "PLNMT_PROCESS_DE": "2018-05-18"
+            }
+        }
+    },
+    {
+        "view_id": "0070421",
+        "uid": "0070421",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070421",
+        "BI_NO": "0421",
+        "BI_SJ": "2018년 제2차 수시분 구유재산관리계획(안) - 도봉동 다목적 체육센터 건립 사업",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "행정기획위",
+        "PROCESS_DE": "2018-05-18",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "7",
+        "ITNC_DE": "2018-05-04",
+        "BI_KND_NM": "계획서안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2018-05-04",
+                "CMIT_SBMISN_DE": "2018-05-14",
+                "CMIT_PROCESS_DE": "2018-05-14"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2018-05-18",
+                "PLNMT_SBMISN_DE": "2018-05-18",
+                "PLNMT_PROCESS_DE": "2018-05-18"
+            }
+        }
+    },
+    {
+        "view_id": "0070420",
+        "uid": "0070420",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070420",
+        "BI_NO": "0420",
+        "BI_SJ": "서울특별시 도봉구 지방공무원 정원 조례 일부개정조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "행정기획위",
+        "PROCESS_DE": "2018-05-18",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "7",
+        "ITNC_DE": "2018-05-04",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2018-05-04",
+                "CMIT_SBMISN_DE": "2018-05-14",
+                "CMIT_PROCESS_DE": "2018-05-14"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2018-05-18",
+                "PLNMT_SBMISN_DE": "2018-05-18",
+                "PLNMT_PROCESS_DE": "2018-05-18"
+            }
+        }
+    },
+    {
+        "view_id": "0070419",
+        "uid": "0070419",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070419",
+        "BI_NO": "0419",
+        "BI_SJ": "2018년 도봉구 식품진흥기금 운용계획 변경(안)",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "복지건설위",
+        "PROCESS_DE": "2018-04-16",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "7",
+        "ITNC_DE": "2018-04-05",
+        "BI_KND_NM": "계획서안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2018-04-06",
+                "CMIT_SBMISN_DE": "2018-04-12",
+                "CMIT_PROCESS_DE": "2018-04-12"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2018-04-16",
+                "PLNMT_SBMISN_DE": "2018-04-16",
+                "PLNMT_PROCESS_DE": "2018-04-16"
+            }
+        }
+    },
+    {
+        "view_id": "0070418",
+        "uid": "0070418",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070418",
+        "BI_NO": "0418",
+        "BI_SJ": "서울특별시 도봉구 주차장 설치 및 관리 조례 일부개정조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "복지건설위",
+        "PROCESS_DE": "2018-04-16",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "7",
+        "RASMBLY_SESN": "275",
+        "ITNC_DE": "2018-04-05",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2018-04-06",
+                "CMIT_SBMISN_DE": "2018-04-11",
+                "CMIT_PROCESS_DE": "2018-04-11"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2018-04-16",
+                "PLNMT_SBMISN_DE": "2018-04-16",
+                "PLNMT_PROCESS_DE": "2018-04-16"
+            }
+        }
+    },
+    {
+        "view_id": "0070417",
+        "uid": "0070417",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070417",
+        "BI_NO": "0417",
+        "BI_SJ": "2018년도 제1차 수시분 구유재산관리계획(안) - 도봉 구립 공공도서관 건립",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "행정기획위",
+        "PROCESS_DE": "2018-04-16",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "7",
+        "ITNC_DE": "2018-04-05",
+        "BI_KND_NM": "계획서안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2018-04-06",
+                "CMIT_SBMISN_DE": "2018-04-13",
+                "CMIT_PROCESS_DE": "2018-04-13"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2018-04-16",
+                "PLNMT_SBMISN_DE": "2018-04-16",
+                "PLNMT_PROCESS_DE": "2018-04-16"
+            }
+        }
+    },
+    {
+        "view_id": "0070416",
+        "uid": "0070416",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070416",
+        "BI_NO": "0416",
+        "BI_SJ": "서울특별시 도봉구 중소기업육성기금 설치 및 운용 조례 일부개정조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "행정기획위",
+        "PROCESS_DE": "2018-04-16",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "7",
+        "ITNC_DE": "2018-04-05",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2018-04-06",
+                "CMIT_SBMISN_DE": "2018-04-13",
+                "CMIT_PROCESS_DE": "2018-04-13"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2018-04-16",
+                "PLNMT_SBMISN_DE": "2018-04-16",
+                "PLNMT_PROCESS_DE": "2018-04-16"
+            }
+        }
+    },
+    {
+        "view_id": "0070415",
+        "uid": "0070415",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070415",
+        "BI_NO": "0415",
+        "BI_SJ": "서울특별시 도봉구 김수영문학관 설치 및 운영에 관한 조례 일부개정조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "행정기획위",
+        "PROCESS_DE": "2018-04-16",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "7",
+        "ITNC_DE": "2018-04-05",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2018-04-06",
+                "CMIT_SBMISN_DE": "2018-04-11",
+                "CMIT_PROCESS_DE": "2018-04-11"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2018-04-16",
+                "PLNMT_SBMISN_DE": "2018-04-16",
+                "PLNMT_PROCESS_DE": "2018-04-16"
+            }
+        }
+    },
+    {
+        "view_id": "0070414",
+        "uid": "0070414",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070414",
+        "BI_NO": "0414",
+        "BI_SJ": "서울특별시 도봉구 환경유해인자 예방 및 관리조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "복지건설위",
+        "PROCESS_DE": "2018-03-16",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "7",
+        "ITNC_DE": "2018-03-02",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "2018.03.16",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2018-03-05",
+                "CMIT_SBMISN_DE": "2018-03-12",
+                "CMIT_PROCESS_DE": "2018-03-12"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2018-03-16",
+                "PLNMT_SBMISN_DE": "2018-03-16",
+                "PLNMT_PROCESS_DE": "2018-03-16"
+            }
+        }
+    },
+    {
+        "view_id": "0070413",
+        "uid": "0070413",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070413",
+        "BI_NO": "0413",
+        "BI_SJ": "서울특별시 도봉구 문화재단 설립 및 운영에 관한 조례 일부개정조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "행정기획위",
+        "PROCESS_DE": "2018-03-16",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "7",
+        "ITNC_DE": "2018-03-02",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "2018.03.16",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2018-03-02",
+                "CMIT_SBMISN_DE": "2018-03-05",
+                "CMIT_PROCESS_DE": "2018-03-14"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2018-03-16",
+                "PLNMT_SBMISN_DE": "2018-03-16",
+                "PLNMT_PROCESS_DE": "2018-03-16"
+            }
+        }
+    },
+    {
+        "view_id": "0070412",
+        "uid": "0070412",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070412",
+        "BI_NO": "0412",
+        "BI_SJ": "서울특별시 도봉구청사 편익시설 설치 운영에 관한 조례 일부개정조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "행정기획위",
+        "PROCESS_DE": "2018-03-16",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "7",
+        "ITNC_DE": "2018-03-02",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "2018.03.16",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2018-03-05",
+                "CMIT_SBMISN_DE": "2018-03-13",
+                "CMIT_PROCESS_DE": "2018-03-13"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2018-03-16",
+                "PLNMT_SBMISN_DE": "2018-03-16",
+                "PLNMT_PROCESS_DE": "2018-03-16"
+            }
+        }
+    },
+    {
+        "view_id": "0070411",
+        "uid": "0070411",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070411",
+        "BI_NO": "0411",
+        "BI_SJ": "서울특별시 도봉구와 국내 자매도시 간 자매결연(전북 진안군) 폐지에 관한 동의안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "행정기획위",
+        "PROCESS_DE": "2018-03-16",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "7",
+        "ITNC_DE": "2018-03-02",
+        "BI_KND_NM": "동의(승인)안",
+        "TRNSF_DE": "2018.03.16",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2018-03-05",
+                "CMIT_SBMISN_DE": "2018-03-13",
+                "CMIT_PROCESS_DE": "2018-03-13"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2018-03-16",
+                "PLNMT_SBMISN_DE": "2018-03-16",
+                "PLNMT_PROCESS_DE": "2018-03-16"
+            }
+        }
+    },
+    {
+        "view_id": "0070410",
+        "uid": "0070410",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070410",
+        "BI_NO": "0410",
+        "BI_SJ": "서울특별시 도봉구 국내외 도시 간 자매결연 등에 관한 조례 전부개정조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "행정기획위",
+        "PROCESS_DE": "2018-03-16",
+        "RESULT": "수정가결",
+        "RASMBLY_NUMPR": "7",
+        "ITNC_DE": "2018-03-02",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "2018.03.16",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "수정가결",
+                "FRWRD_DE": "2018-03-05",
+                "CMIT_SBMISN_DE": "2018-03-13",
+                "CMIT_PROCESS_DE": "2018-03-13"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "수정가결",
+                "PLNMT_FRWRD_DE": "2018-03-16",
+                "PLNMT_SBMISN_DE": "2018-03-16",
+                "PLNMT_PROCESS_DE": "2018-03-16"
+            }
+        }
+    },
+    {
+        "view_id": "0070409",
+        "uid": "0070409",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070409",
+        "BI_NO": "0409",
+        "BI_SJ": "한국인권도시협의회 운영규약 동의안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "행정기획위",
+        "PROCESS_DE": "2018-03-16",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "7",
+        "ITNC_DE": "2018-03-02",
+        "BI_KND_NM": "동의(승인)안",
+        "TRNSF_DE": "2018.03.16",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2018-03-05",
+                "CMIT_SBMISN_DE": "2018-03-12",
+                "CMIT_PROCESS_DE": "2018-03-12"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2018-03-16",
+                "PLNMT_SBMISN_DE": "2018-03-16",
+                "PLNMT_PROCESS_DE": "2018-03-16"
+            }
+        }
+    },
+    {
+        "view_id": "0070408",
+        "uid": "0070408",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070408",
+        "BI_NO": "0408",
+        "BI_SJ": "서울특별시 도봉구 범죄예방 환경디자인에 관한 조례안",
+        "PROPSR": [
+            "이은림,이성희,조숙자,이영숙,유기훈, 의원",
+            "이은림,이성희,조숙자,이영숙,유기훈,"
+        ],
+        "JRSD_CMIT_NM": "복지건설위",
+        "PROCESS_DE": "2018-03-16",
+        "RESULT": "수정가결",
+        "RASMBLY_NUMPR": "7",
+        "ITNC_DE": "2018-02-27",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "2018.03.16",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "수정가결",
+                "FRWRD_DE": "2018-02-27",
+                "CMIT_SBMISN_DE": "2018-03-13",
+                "CMIT_PROCESS_DE": "2018-03-13"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "수정가결",
+                "PLNMT_FRWRD_DE": "2018-03-16",
+                "PLNMT_SBMISN_DE": "2018-03-16",
+                "PLNMT_PROCESS_DE": "2018-03-16"
+            }
+        }
+    },
+    {
+        "view_id": "0070407",
+        "uid": "0070407",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070407",
+        "BI_NO": "0407",
+        "BI_SJ": "국공립 방학가람어린이집 운영의 민간위탁에 관한 동의안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "복지건설위",
+        "PROCESS_DE": "2018-01-25",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "7",
+        "RASMBLY_SESN": "273",
+        "ITNC_DE": "2018-01-12",
+        "BI_KND_NM": "동의(승인)안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2018-01-12",
+                "CMIT_SBMISN_DE": "2018-01-22",
+                "CMIT_PROCESS_DE": "2018-01-22"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2018-01-25",
+                "PLNMT_SBMISN_DE": "2018-01-25",
+                "PLNMT_PROCESS_DE": "2018-01-25"
+            }
+        }
+    },
+    {
+        "view_id": "0070406",
+        "uid": "0070406",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070406",
+        "BI_NO": "0406",
+        "BI_SJ": "정부조직법 개정에 따른 부처명 인용 조례의 일괄개정을 위한 서울특별시 도봉구 지방공무원 여비 조례 등 일부개정조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "행정기획위",
+        "PROCESS_DE": "2018-01-25",
+        "RESULT": "수정가결",
+        "RASMBLY_NUMPR": "7",
+        "ITNC_DE": "2018-01-12",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "2018.1.25",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "수정가결",
+                "FRWRD_DE": "2018-01-12",
+                "CMIT_SBMISN_DE": "2018-01-23",
+                "CMIT_PROCESS_DE": "2018-01-23"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "수정가결",
+                "PLNMT_FRWRD_DE": "2018-01-25",
+                "PLNMT_SBMISN_DE": "2018-01-25",
+                "PLNMT_PROCESS_DE": "2018-01-25"
+            }
+        }
+    },
+    {
+        "view_id": "0070405",
+        "uid": "0070405",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0070405",
+        "BI_NO": "0405",
+        "BI_SJ": "서울특별시 도봉구 주민참여예산제 운영 조례 일부개정조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "행정기획위",
+        "PROCESS_DE": "2018-01-25",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "7",
+        "ITNC_DE": "2018-01-12",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "2018.1.25",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2018-01-12",
+                "CMIT_SBMISN_DE": "2018-01-23",
+                "CMIT_PROCESS_DE": "2018-01-23"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2018-01-25",
+                "PLNMT_SBMISN_DE": "2018-01-25",
+                "PLNMT_PROCESS_DE": "2018-01-25"
+            }
+        }
+    }
+]

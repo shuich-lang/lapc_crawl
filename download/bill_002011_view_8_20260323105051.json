@@ -1,0 +1,312 @@
+[
+    {
+        "view_id": "0080568",
+        "uid": "0080568",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0080568",
+        "BI_NO": "0568",
+        "BI_SJ": "서울특별시 도봉구의회 기본 조례 일부개정조례안",
+        "PROPSR": "김기순 의원 외 3인",
+        "JRSD_CMIT_NM": "운영위",
+        "PROCESS_DE": "2022-05-16",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "8",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2022-05-03",
+                "CMIT_SBMISN_DE": "2022-05-12",
+                "CMIT_PROCESS_DE": "2022-05-12"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2022-05-16",
+                "PLNMT_SBMISN_DE": "2022-05-16",
+                "PLNMT_PROCESS_DE": "2022-05-16"
+            }
+        }
+    },
+    {
+        "view_id": "0080567",
+        "uid": "0080567",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0080567",
+        "BI_NO": "0567",
+        "BI_SJ": "도봉장애인종합복지관 민간위탁 재계약 동의안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "복지건설위",
+        "PROCESS_DE": "2022-05-16",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "8",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2022-05-02",
+                "CMIT_SBMISN_DE": "2022-05-12",
+                "CMIT_PROCESS_DE": "2022-05-12"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2022-05-16",
+                "PLNMT_SBMISN_DE": "2022-05-16",
+                "PLNMT_PROCESS_DE": "2022-05-16"
+            }
+        }
+    },
+    {
+        "view_id": "0080563",
+        "uid": "0080563",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0080563",
+        "BI_NO": "0563",
+        "BI_SJ": "마을북카페 행복한 이야기 관리 운영사무 민간위탁 재계약 동의안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "행정기획위",
+        "PROCESS_DE": "2022-05-16",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "8",
+        "RASMBLY_SESN": "315",
+        "ITNC_DE": "2022-04-29",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2022-05-02",
+                "CMIT_SBMISN_DE": "2022-05-13",
+                "CMIT_PROCESS_DE": "2022-05-13"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2022-05-16",
+                "PLNMT_SBMISN_DE": "2022-05-16",
+                "PLNMT_PROCESS_DE": "2022-05-16"
+            }
+        }
+    },
+    {
+        "view_id": "0080561",
+        "uid": "0080561",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0080561",
+        "BI_NO": "0561",
+        "BI_SJ": "서울특별시 도봉구 구민회관 설치 및 운영에 관한 조례 일부개정조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "행정기획위",
+        "PROCESS_DE": "2022-05-16",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "8",
+        "RASMBLY_SESN": "315",
+        "ITNC_DE": "2022-04-29",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2022-05-02",
+                "CMIT_SBMISN_DE": "2022-05-13",
+                "CMIT_PROCESS_DE": "2022-05-13"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2022-05-16",
+                "PLNMT_SBMISN_DE": "2022-05-16",
+                "PLNMT_PROCESS_DE": "2022-05-16"
+            }
+        }
+    },
+    {
+        "view_id": "0080560",
+        "uid": "0080560",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0080560",
+        "BI_NO": "0560",
+        "BI_SJ": "서울특별시 도봉구 범죄예방 환경디자인에 관한 조례 일부개정조례안",
+        "PROPSR": [
+            "이은림 의원외 9인",
+            "이은림",
+            "강철웅 박진식 이길연 강신만 이영숙 이성민 이태용 조미애 이경숙"
+        ],
+        "JRSD_CMIT_NM": "복지건설위",
+        "PROCESS_DE": "2022-04-19",
+        "RESULT": "수정가결",
+        "RASMBLY_NUMPR": "8",
+        "RASMBLY_SESN": "314",
+        "ITNC_DE": "2022-04-07",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "수정가결",
+                "FRWRD_DE": "2022-04-08",
+                "CMIT_SBMISN_DE": "2022-04-18",
+                "CMIT_PROCESS_DE": "2022-04-18"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "수정가결",
+                "PLNMT_FRWRD_DE": "2022-04-19",
+                "PLNMT_SBMISN_DE": "2022-04-19",
+                "PLNMT_PROCESS_DE": "2022-04-19"
+            }
+        }
+    },
+    {
+        "view_id": "0080559",
+        "uid": "0080559",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0080559",
+        "BI_NO": "0559",
+        "BI_SJ": "서울특별시 도봉구 구세 감면 조례 일부개정조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "행정기획위",
+        "PROCESS_DE": "2022-04-19",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "8",
+        "RASMBLY_SESN": "314",
+        "ITNC_DE": "2022-04-04",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2022-04-04",
+                "CMIT_SBMISN_DE": "2022-04-18",
+                "CMIT_PROCESS_DE": "2022-04-18"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2022-04-19",
+                "PLNMT_SBMISN_DE": "2022-04-19",
+                "PLNMT_PROCESS_DE": "2022-04-19"
+            }
+        }
+    },
+    {
+        "view_id": "0080558",
+        "uid": "0080558",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0080558",
+        "BI_NO": "0558",
+        "BI_SJ": "서울특별시 도봉구 수수료 징수 조례 일부개정조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "행정기획위",
+        "PROCESS_DE": "2022-04-19",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "8",
+        "RASMBLY_SESN": "314",
+        "ITNC_DE": "2022-04-04",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2022-04-04",
+                "CMIT_SBMISN_DE": "2022-04-18",
+                "CMIT_PROCESS_DE": "2022-04-18"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2022-04-19",
+                "PLNMT_SBMISN_DE": "2022-04-19",
+                "PLNMT_PROCESS_DE": "2022-04-19"
+            }
+        }
+    },
+    {
+        "view_id": "0080557",
+        "uid": "0080557",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0080557",
+        "BI_NO": "0557",
+        "BI_SJ": "서울특별시 도봉구 구세 징수 조례 일부개정조례안",
+        "PROPSR": "도봉구청장",
+        "JRSD_CMIT_NM": "행정기획위",
+        "PROCESS_DE": "2022-04-19",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "8",
+        "RASMBLY_SESN": "314",
+        "ITNC_DE": "2022-04-04",
+        "BI_KND_NM": "조례안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2022-04-04",
+                "CMIT_SBMISN_DE": "2022-04-18",
+                "CMIT_PROCESS_DE": "2022-04-18"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2022-04-19",
+                "PLNMT_SBMISN_DE": "2022-04-19",
+                "PLNMT_PROCESS_DE": "2022-04-19"
+            }
+        }
+    },
+    {
+        "view_id": "0080556",
+        "uid": "0080556",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0080556",
+        "BI_NO": "0556",
+        "BI_SJ": "러시아 우크라이나 침공 규탄 결의안",
+        "PROPSR": "의원외 13인",
+        "JRSD_CMIT_NM": "본회의직상정",
+        "PROCESS_DE": "2022-03-24",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "8",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "본회의직상",
+                "FRWRD_DE": "",
+                "CMIT_SBMISN_DE": "",
+                "CMIT_PROCESS_DE": ""
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2022-03-24",
+                "PLNMT_SBMISN_DE": "2022-03-24",
+                "PLNMT_PROCESS_DE": "2022-03-24"
+            }
+        }
+    },
+    {
+        "view_id": "0080555",
+        "uid": "0080555",
+        "view_url": "https://www.council-dobong.seoul.kr/meeting/bill/bill.do#view_id=0080555",
+        "BI_NO": "0555",
+        "BI_SJ": "서울특별시 도봉구의회 사무기구 사무분장 규칙 일부개정규칙안",
+        "PROPSR": [
+            "김기순 의원외 9인",
+            "김기순",
+            "강철웅 박진식 유기훈 이길연 이성민 이은림 이태용 조미애 홍국표"
+        ],
+        "JRSD_CMIT_NM": "운영위",
+        "PROCESS_DE": "2022-03-24",
+        "RESULT": "원안가결",
+        "RASMBLY_NUMPR": "8",
+        "RASMBLY_SESN": "313",
+        "ITNC_DE": "2022-03-16",
+        "BI_KND_NM": "규칙안",
+        "TRNSF_DE": "",
+        "PRMLGT_DE": "",
+        "PRMLGT_NO": "",
+        "sections": {
+            "위원회": {
+                "CMIT_RESULT": "원안가결",
+                "FRWRD_DE": "2022-03-16",
+                "CMIT_SBMISN_DE": "2022-03-21",
+                "CMIT_PROCESS_DE": "2022-03-21"
+            },
+            "본회의": {
+                "PLNMT_RESULT": "원안가결",
+                "PLNMT_FRWRD_DE": "2022-03-24",
+                "PLNMT_SBMISN_DE": "2022-03-24",
+                "PLNMT_PROCESS_DE": "2022-03-24"
+            }
+        }
+    }
+]

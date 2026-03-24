@@ -8,8 +8,14 @@ import datetime
 import re
 from typing import Dict, Any, List, Optional
 from urllib.parse import urlparse, parse_qs, urljoin
+from fastapi import APIRouter
 
-app = FastAPI()
+#app = FastAPI()
+
+router = APIRouter(
+    prefix="/002009",
+    tags=["002009"]
+)
 
 # 크롤링 중단 플래그
 stop_scraping = False
@@ -19,7 +25,7 @@ LIST_URL = "https://council.geumcheon.go.kr/council/kr/minutes/bill.do"
 DOWNLOAD_DIR = "download"
 
 
-@app.get("/")
+@router.get("/")
 async def root():
     return {
         "ok": True,
@@ -249,18 +255,18 @@ async def scrape_bills_geumcheon(
     return data_list
 
 
-@app.api_route("/002009/scrape", methods=["GET", "POST"])
-async def scrape_endpoint(
-    rasmbly_numpr: Optional[str] = Query(default=None)
-):
-    global stop_scraping
-    stop_scraping = False
+# @app.api_route("/002009/scrape", methods=["GET", "POST"])
+# async def scrape_endpoint(
+#     rasmbly_numpr: Optional[str] = Query(default=None)
+# ):
+#     global stop_scraping
+#     stop_scraping = False
 
-    data = await scrape_bills_geumcheon(
-        save_file=True,
-        rasmbly_numpr=rasmbly_numpr
-    )
-    return data
+#     data = await scrape_bills_geumcheon(
+#         save_file=True,
+#         rasmbly_numpr=rasmbly_numpr
+#     )
+#     return data
 
 
 # ---------------------------------------------------------
@@ -579,9 +585,8 @@ async def parse_attachment_row(row, item: Dict[str, Any]):
     if attachments:
         item["attachments"] = attachments
 
-
-@app.api_route("/002009/scrapeView", methods=["GET", "POST"])
-@app.api_route("/002009/view", methods=["GET", "POST"])
+@router.api_route("/scrapeView", methods=["GET", "POST"])
+@router.api_route("/view", methods=["GET", "POST"])
 async def scrape_view_endpoint(
     rasmbly_numpr: Optional[str] = Query(default=None)
 ):
@@ -594,11 +599,38 @@ async def scrape_view_endpoint(
     )
     return data
 
+@router.api_route("/scrape", methods=["GET", "POST"])
+async def scrape_endpoint(
+    rasmbly_numpr: Optional[str] = Query(default=None)
+):
+    global stop_scraping
+    stop_scraping = False
+
+    data = await scrape_bills_geumcheon(
+        save_file=True,
+        rasmbly_numpr=rasmbly_numpr
+    )
+    return data
+
+# @app.api_route("/002009/scrapeView", methods=["GET", "POST"])
+# @app.api_route("/002009/view", methods=["GET", "POST"])
+# async def scrape_view_endpoint(
+#     rasmbly_numpr: Optional[str] = Query(default=None)
+# ):
+#     global stop_scraping
+#     stop_scraping = False
+
+#     data = await scrape_view_details_geumcheon(
+#         save_file=True,
+#         rasmbly_numpr=rasmbly_numpr
+#     )
+#     return data
+
 
 # ---------------------------------------------------------
 # 파일 조회 API
 # ---------------------------------------------------------
-@app.get("/002009/list")
+@router.get("/list")
 async def get_list_data():
     filename = _latest_file("bill_002009_list")
     if filename and os.path.exists(filename):
@@ -607,7 +639,7 @@ async def get_list_data():
     return {"error": "List data not found"}
 
 
-@app.get("/002009/view_data")
+@router.get("/view_data")
 async def get_view_data():
     filename = _latest_file("bill_002009_view")
     if filename and os.path.exists(filename):
@@ -616,13 +648,37 @@ async def get_view_data():
     return {"error": "View data not found"}
 
 
-@app.get("/stop")
+@router.get("/stop")
 async def stop_scraping_endpoint():
     global stop_scraping
     stop_scraping = True
     return {"message": "Stop signal set. Current scraping will stop after current item."}
 
+# @app.get("/002009/list")
+# async def get_list_data():
+#     filename = _latest_file("bill_002009_list")
+#     if filename and os.path.exists(filename):
+#         with open(filename, "r", encoding="utf-8") as f:
+#             return json.load(f)
+#     return {"error": "List data not found"}
 
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8901)
+
+# @app.get("/002009/view_data")
+# async def get_view_data():
+#     filename = _latest_file("bill_002009_view")
+#     if filename and os.path.exists(filename):
+#         with open(filename, "r", encoding="utf-8") as f:
+#             return json.load(f)
+#     return {"error": "View data not found"}
+
+
+# @app.get("/stop")
+# async def stop_scraping_endpoint():
+#     global stop_scraping
+#     stop_scraping = True
+#     return {"message": "Stop signal set. Current scraping will stop after current item."}
+
+
+# if __name__ == "__main__":
+#     import uvicorn
+#     uvicorn.run(app, host="0.0.0.0", port=8901)
